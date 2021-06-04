@@ -1,0 +1,9 @@
+{
+    "ip" : "brspodbadm01.odontoprev.com.br",
+    "port" : "1725",
+    "service_name" : "DCMSHML3",
+    "user" : "admprod",
+    "password" : "ad0dpvit2ad1600d#VHML",
+    "mode": "default"
+}
+
