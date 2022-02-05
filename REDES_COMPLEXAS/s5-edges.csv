@@ -1,0 +1,355 @@
+Source,Target,Weight,Season
+Aemon,Jon,4,5
+Aemon,Sam,3,5
+Alliser,Jon,3,5
+Announcer,Daenerys,1,5
+Announcer,Tyrion,2,5
+Areo,Bronn,1,5
+Areo,Doran,2,5
+Areo,Obara,1,5
+Arya,Girl,1,5
+Arya,Jaqen,18,5
+Arya,Man,1,5
+Arya,Prostitute,1,5
+Arya,Waif,14,5
+Baelish,Brienne,8,5
+Baelish,Cersei,19,5
+Baelish,Lancel,4,5
+Baelish,Olenna,7,5
+Baelish,Ramsay,3,5
+Baelish,Roose,7,5
+Baelish,Royce,3,5
+Baelish,Sansa,33,5
+Baelish,Squire,1,5
+Baelish,Yohn royce,1,5
+Banker,Mace,5,5
+Barristan,Daario,1,5
+Barristan,Daenerys,17,5
+Barristan,Hizdahr,1,5
+Black haired prostitute,Tyrion,7,5
+Blonde prostitute,Varys,1,5
+Brand,Derryk,3,5
+Brand,Sam,2,5
+Brienne,Baelish,7,5
+Brienne,Podrick,33,5
+Brienne,Sansa,2,5
+Bronn,Doran,1,5
+Bronn,Jaime,36,5
+Bronn,Lollys,5,5
+Bronn,Myrcella,1,5
+Bronn,Obara,2,5
+Bronn,Rider,4,5
+Bronn,Tyene,11,5
+Brother,Jon,1,5
+Brothers,Sam,1,5
+Buyer,Tyrion,2,5
+Captain,Jaime,1,5
+Cersei,Baelish,18,5
+Cersei,High septon,2,5
+Cersei,High sparrow,14,5
+Cersei,Hunters,1,5
+Cersei,Jaime,14,5
+Cersei,Kevan,6,5
+Cersei,Kevan lannister,1,5
+Cersei,Lancel,4,5
+Cersei,Mace,7,5
+Cersei,Mace tyrell,1,5
+Cersei,Maggy,7,5
+Cersei,Margaery,13,5
+Cersei,Melara,5,5
+Cersei,Meryn,2,5
+Cersei,Olenna,9,5
+Cersei,Olyvar,1,5
+Cersei,Priest,2,5
+Cersei,Pycelle,4,5
+Cersei,Qyburn,13,5
+Cersei,Septa,5,5
+Cersei,Sparrow,23,5
+Crowd,Priestess,1,5
+Cut to another table in the inn,Waitress,1,5
+Daario,Barristan,2,5
+Daario,Daenerys,14,5
+Daario,Grey worm,6,5
+Daario,Hizdahr,2,5
+Daario,Jorah,1,5
+Daario,Missandei,1,5
+Daario,Tyrion,6,5
+Daenerys,Announcer,1,5
+Daenerys,Barristan,14,5
+Daenerys,Daario,13,5
+Daenerys,Dario,3,5
+Daenerys,Grey worm,2,5
+Daenerys,Hizdahr,18,5
+Daenerys,Hizdahr zo loraq,1,5
+Daenerys,Jorah,1,5
+Daenerys,Missandei,2,5
+Daenerys,Mosador,1,5
+Daenerys,Mossador,5,5
+Daenerys,Tyrion,34,5
+Danerys,Tyrion,1,5
+Dario,Barristan,1,5
+Dario,Daenerys,2,5
+Daughter,Karsi,1,5
+Davos,Jon,9,5
+Davos,Olly,2,5
+Davos,Selyse,1,5
+Davos,Shireen,9,5
+Davos,Stannis,20,5
+Derryk,Brand,6,5
+Derryk,Gilly,1,5
+Derryk,Sam,1,5
+Doran,Areo,1,5
+Doran,Ellaria,7,5
+Doran,Jaime,8,5
+Edd,Jon,2,5
+Elaria,Obara,3,5
+Elaria,Tyene,1,5
+Ellaria,Areo,1,5
+Ellaria,Doran,7,5
+Ellaria,Jaime,4,5
+Ellaria,Trystane,1,5
+Giant,Wildling elder,1,5
+Gilly,Aemon,1,5
+Gilly,Derryk,2,5
+Gilly,Olly,1,5
+Gilly,Sam,22,5
+Gilly,Shireen,4,5
+Grey worm,Barristan,1,5
+Grey worm,Daario,3,5
+Grey worm,Daenerys,1,5
+Grey worm,Jorah,1,5
+Grey worm,Missandei,6,5
+Grey worm,Tyrion,1,5
+Head,Meryn,3,5
+Head prostitute,Meryn,1,5
+High septon,Cersei,2,5
+High septon,Lancel,1,5
+High septon,Mace,1,5
+High septon,Olyvar,4,5
+High septon,Qyburn,1,5
+High sparrow,Cersei,16,5
+High sparrow,Olenna,1,5
+Hizdahr,Daario,2,5
+Hizdahr,Daenerys,20,5
+Hizdahr,Missandei,1,5
+Hizdahr,Mossador,3,5
+Hizdahr,Tyrion,3,5
+Hunters,Cersei,1,5
+Jaime,Bronn,42,5
+Jaime,Cersei,15,5
+Jaime,Doran,6,5
+Jaime,Ellaria,4,5
+Jaime,Myrcella,16,5
+Jaime,Rider,1,5
+Jaime,Trystane,1,5
+Janos,Jon,4,5
+Jaqen,Arya,21,5
+Jaqen,Waif,4,5
+Jon,Aemon,3,5
+Jon,Alliser,2,5
+Jon,Allister,1,5
+Jon,Brother,1,5
+Jon,Davos,12,5
+Jon,Edd,1,5
+Jon,Janos,2,5
+Jon,Karsi,5,5
+Jon,Loboda,3,5
+Jon,Lord of bones,2,5
+Jon,Melisandre,7,5
+Jon,Night’s watch brother,1,5
+Jon,Olly,4,5
+Jon,Sam,18,5
+Jon,Selyse,1,5
+Jon,Stannis,27,5
+Jon,Tormund,16,5
+Jorah,Daario,2,5
+Jorah,Grey worm,1,5
+Jorah,Malko,2,5
+Jorah,Master,2,5
+Jorah,Tyrion,39,5
+Karsi,Daughter,1,5
+Karsi,Jon,7,5
+Karsi,Loboda,2,5
+Karsi,Tormund,1,5
+Kevan,Cersei,6,5
+Kevan,Pycelle,1,5
+Kevan lannister,Lancel,1,5
+Lancel,Baelish,2,5
+Lancel,Cersei,6,5
+Lancel,High septon,1,5
+Lancel,Loras,2,5
+Loboda,Giant,1,5
+Loboda,Jon,4,5
+Loboda,Karsi,2,5
+Loboda,Tormund,1,5
+Lollys,Bronn,5,5
+Loras,High sparrow,1,5
+Loras,Lancel,1,5
+Loras,Margaery,6,5
+Loras,Olyvar,5,5
+Loras,Sparrow,6,5
+Lord of bones,Jon,2,5
+Lord of bones,Tormund,4,5
+Mace,Banker,7,5
+Mace,Cersei,8,5
+Mace,Qyburn,1,5
+Mace tyrell,Cersei,1,5
+Maggy,Cersei,7,5
+Malko,Jorah,2,5
+Malko,Slave buyer,1,5
+Malko,Slaver,2,5
+Malko,Tyrion,3,5
+Man,Arya,1,5
+Margaery,Cersei,11,5
+Margaery,Loras,6,5
+Margaery,Olenna,3,5
+Margaery,Olyvar,1,5
+Margaery,Sparrow,6,5
+Master,Jorah,2,5
+Melara,Cersei,3,5
+Melara,Maggy,1,5
+Melisandre,Davos,1,5
+Melisandre,Jon,8,5
+Melisandre,Selyse,4,5
+Melisandre,Shireen,1,5
+Melisandre,Stannis,11,5
+Meryn,Cersei,1,5
+Militant,Client,1,5
+Missandei,Daario,2,5
+Missandei,Daenerys,2,5
+Missandei,Grey worm,6,5
+Missandei,Hizdahr,1,5
+Mosador,Daenerys,1,5
+Mossador,Barristan,2,5
+Mossador,Daenerys,4,5
+Mossador,Hizdahr,2,5
+Myranda,Ramsay,4,5
+Myranda,Sansa,13,5
+Myrcella,Jaime,14,5
+Myrcella,Obara,1,5
+Myrcella,Trystane,6,5
+Night’s watch brother,Jon,1,5
+Nymeria,Elaria,1,5
+Nymeria,Tyene,3,5
+Obara,Bronn,1,5
+Obara,Elaria,3,5
+Obara,Myrcella,1,5
+Obara,Tyene,1,5
+Olenna,Baelish,7,5
+Olenna,Cersei,8,5
+Olenna,High sparrow,1,5
+Olenna,Loras,1,5
+Olenna,Margaery,3,5
+Olenna,Sparrow,9,5
+Olly,Davos,1,5
+Olly,Jon,4,5
+Olly,Sam,10,5
+Olyvar,Cersei,1,5
+Olyvar,High septon,3,5
+Olyvar,Loras,3,5
+Olyvar,Margaery,1,5
+Olyvar,Sparrow,5,5
+Podrick,Brienne,28,5
+Priest,Cersei,1,5
+Priestess,Crowd,2,5
+Priestess,Tyrion,2,5
+Prostitute,Brothel keeper,1,5
+Prostitute,White rat,1,5
+Pycelle,Cersei,2,5
+Pycelle,Mace,1,5
+Pycelle,Qyburn,1,5
+Quick,Announcer,1,5
+Qyburn,Cersei,11,5
+Qyburn,High septon,3,5
+Ramsay,Baelish,2,5
+Ramsay,Myranda,4,5
+Ramsay,Roose,17,5
+Ramsay,Sansa,9,5
+Ramsay,Survivor,1,5
+Ramsay,Theon,8,5
+Rider,Bronn,5,5
+Rider,Jaime,1,5
+Roose,Baelish,8,5
+Roose,Ramsay,17,5
+Roose,Sansa,2,5
+Roose,Theon,1,5
+Royce,Baelish,4,5
+Royce,Sansa,1,5
+Sam,Aemon,2,5
+Sam,Derryk,2,5
+Sam,Gilly,26,5
+Sam,Janos,1,5
+Sam,Jon,17,5
+Sam,Olly,9,5
+Sam,Stannis,8,5
+Sammy,Gilly,1,5
+Sand snakes,Ellaria,1,5
+Sansa,Baelish,33,5
+Sansa,Brienne,3,5
+Sansa,Cut to another table in the inn,1,5
+Sansa,Myranda,12,5
+Sansa,Ramsay,10,5
+Sansa,Roose,1,5
+Sansa,Theon,16,5
+Sansa,Waitress,1,5
+Sansa,Walda,2,5
+Selyse,Davos,1,5
+Selyse,Melisandre,2,5
+Selyse,Shireen,5,5
+Selyse,Stannis,3,5
+Septa,Cersei,2,5
+Shadow tower brother,Aemon,1,5
+Shireen,Davos,11,5
+Shireen,Gilly,4,5
+Shireen,Melisandre,2,5
+Shireen,Selyse,3,5
+Shireen,Stannis,12,5
+Slaver,Malko,1,5
+Slaver,Tyrion,1,5
+Sparrow,Cersei,24,5
+Sparrow,Loras,8,5
+Sparrow,Margaery,6,5
+Sparrow,Olenna,12,5
+Sparrow,Olyvar,3,5
+Squire,Royce,1,5
+Stannis,Brienne,1,5
+Stannis,Davos,21,5
+Stannis,Jon,28,5
+Stannis,Melisandre,11,5
+Stannis,Sam,7,5
+Stannis,Selyse,3,5
+Stannis,Shireen,11,5
+Strong,Quick,1,5
+Theon,Myranda,1,5
+Theon,Ramsay,8,5
+Theon,Roose,1,5
+Theon,Sansa,19,5
+Tormund,Jon,18,5
+Tormund,Karsi,1,5
+Tormund,Lord of bones,4,5
+Trystane,Jaime,3,5
+Trystane,Myrcella,4,5
+Tyene,Bronn,10,5
+Tyene,Elaria,1,5
+Tyene,Nymeria,3,5
+Tyrion,Black haired prostitute,8,5
+Tyrion,Buyer,2,5
+Tyrion,Daario,6,5
+Tyrion,Daenerys,34,5
+Tyrion,Danerys,1,5
+Tyrion,Hizdahr,5,5
+Tyrion,Jorah,42,5
+Tyrion,Malko,2,5
+Tyrion,Missandei,1,5
+Tyrion,Priestess,3,5
+Tyrion,Slaver,1,5
+Tyrion,Varys,39,5
+Varys,Priestess,1,5
+Varys,Tyrion,41,5
+Waif,Arya,14,5
+Waif,Jaqen,5,5
+Waitress,Sansa,1,5
+Walda,Ramsay,1,5
+Walda,Roose,2,5
+Wildling elder,Tormund,1,5
+Yohn royce,Master of arms,1,5

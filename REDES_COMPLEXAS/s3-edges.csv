@@ -1,0 +1,388 @@
+Source,Target,Weight,Season
+All,Jeor,1,3
+Anguy,Arya,7,3
+Anguy,Beric,2,3
+Anguy,Gendry,1,3
+Anguy,Melisandre,1,3
+Anguy,The hound,4,3
+Anguy,Thoros,3,3
+Arya,Anguy,4,3
+Arya,Beric,12,3
+Arya,Gendry,15,3
+Arya,Hot pie,3,3
+Arya,Hound,2,3
+Arya,The hound,13,3
+Arya,Thoros,19,3
+Baby,Sam,1,3
+Balon,Yara,2,3
+Barristan,Daario,1,3
+Barristan,Daenerys,10,3
+Barristan,Jorah,18,3
+Beric,Anguy,3,3
+Beric,Arya,14,3
+Beric,Melisandre,2,3
+Beric,The hound,8,3
+Beric,Thoros,6,3
+Black walder,Edmure,1,3
+Black walder,Lothar,1,3
+Black walder,Robb,4,3
+Blackfish,Catelyn,1,3
+Blackfish,Roose,2,3
+Boy,Girl,1,3
+Boy,Jon snow,1,3
+Bran,Catelyn,1,3
+Bran,Hodor,3,3
+Bran,Jojen,19,3
+Bran,Meera,8,3
+Bran,Osha,20,3
+Bran,Rickon,3,3
+Bran,Sam,6,3
+Brienne,Jaime,40,3
+Brienne,Roose bolton,2,3
+Bronn,Meryn trant,3,3
+Bronn,Podrick,5,3
+Bronn,Tyrion,29,3
+Bronn,Whore,1,3
+Brynden,Black walder,1,3
+Brynden,Catelyn,5,3
+Brynden,Edmure,3,3
+Brynden,Robb,3,3
+Brynden,Talisa,1,3
+Catelyn,Blackfish,1,3
+Catelyn,Bran,2,3
+Catelyn,Brynden,6,3
+Catelyn,Edmure,2,3
+Catelyn,Robb,8,3
+Catelyn,Roose,1,3
+Catelyn,Talisa,8,3
+Cersei,Joffrey,13,3
+Cersei,Littlefinger,5,3
+Cersei,Loras,1,3
+Cersei,Margaery,9,3
+Cersei,Olenna,8,3
+Cersei,Tyrion,38,3
+Cersei,Tywin,15,3
+Cersei,Varys,1,3
+Child,Margaery,2,3
+Craster,Jeor,6,3
+Craster,Karl tanner,3,3
+Daario,Barristan,2,3
+Daario,Daenerys,12,3
+Daario,Jorah,3,3
+Daario,Mero,5,3
+Daario,Prendahl,1,3
+Daenerys,Barristan,9,3
+Daenerys,Crowd,3,3
+Daenerys,Daario,9,3
+Daenerys,Grey worm,3,3
+Daenerys,Jorah,22,3
+Daenerys,Kraznys,6,3
+Daenerys,Mero,4,3
+Daenerys,Missandei,21,3
+Daenerys,Prendahl,2,3
+Daenerys,Radzal mo eraz,5,3
+Davos,Gendry,21,3
+Davos,Melisandre,8,3
+Davos,Salladhor,13,3
+Davos,Shireen,16,3
+Davos,Stannis,23,3
+Dolorous edd,Grenn,4,3
+Dolorous edd,Jeor,1,3
+Dolorous edd,Rast,2,3
+Dolorous edd,Sam,2,3
+Eddison,Rast,1,3
+Edmure,Black walder,1,3
+Edmure,Brynden,4,3
+Edmure,Catelyn,2,3
+Edmure,Lothar,2,3
+Edmure,Robb,11,3
+Everybody,Walder,1,3
+Gendry,Anguy,2,3
+Gendry,Arya,13,3
+Gendry,Davos,16,3
+Gendry,Hot pie,4,3
+Gendry,Melisandre,13,3
+Gendry,Thoros,4,3
+Gilly,Maester aemon,3,3
+Gilly,Meera,2,3
+Gilly,Sam,31,3
+Gilly,Samwell,2,3
+Girl,Boy,1,3
+Greizhen,Daenerys,1,3
+Grenn,Dolorous edd,3,3
+Grenn,Jeor,1,3
+Grenn,Rast,4,3
+Grenn,Sam,2,3
+Grey worm,Daenerys,3,3
+Grey worm,Mero,1,3
+High septon,Tyrion,1,3
+Hodor,Bran,2,3
+Hodor,Jojen,1,3
+Hodor,Meera,1,3
+Hodor,Osha,2,3
+Hodor,Sam,1,3
+Hot pie,Arya,6,3
+Hot pie,Gendry,2,3
+Hot pie,Thoros,2,3
+Hound,Arya,1,3
+Jaime,Brienne,40,3
+Jaime,Locke,17,3
+Jaime,Qyburn,21,3
+Jaime,Roose bolton,7,3
+Jeor,All,1,3
+Jeor,Craster,6,3
+Jeor,Dolorous edd,1,3
+Jeor,Karl tanner,1,3
+Jeor,Rast,4,3
+Jeor,Sam,1,3
+Joffrey,Cersei,12,3
+Joffrey,Margaery,23,3
+Joffrey,Olenna,1,3
+Joffrey,Sansa,3,3
+Joffrey,Tyrion,4,3
+Joffrey,Tywin,15,3
+Jojen,Bran,22,3
+Jojen,Hodor,5,3
+Jojen,Meera,2,3
+Jojen,Osha,7,3
+Jojen,Rickon,1,3
+Jojen,Sam,4,3
+Jon,Orell,8,3
+Jon,Pyp,1,3
+Jon,Tormund,8,3
+Jon,Ygritte,42,3
+Jon snow,Ygritte,3,3
+Jorah,Barristan,21,3
+Jorah,Daario,2,3
+Jorah,Daenerys,16,3
+Jorah,Mero,2,3
+Jorah,Missandei,1,3
+Karl tanner,Craster,4,3
+Karl tanner,Jeor,1,3
+Kraznys,Daenerys,4,3
+Kraznys,Missandei,11,3
+Kraznys mo nakloz,Missandei,10,3
+Littlefinger,Cersei,5,3
+Littlefinger,Olyvar,1,3
+Littlefinger,Pycelle,1,3
+Littlefinger,Ros,1,3
+Littlefinger,Sansa,11,3
+Littlefinger,Tyrion,9,3
+Littlefinger,Tywin,1,3
+Littlefinger,Varys,5,3
+Locke,Brienne,2,3
+Locke,Jaime,16,3
+Locke,Roose bolton,2,3
+Loras,Margaery,5,3
+Loras,Olyvar,3,3
+Loras,Sansa,6,3
+Lothar,Black walder,1,3
+Lothar,Brynden,1,3
+Lothar,Edmure,2,3
+Lothar,Talisa,1,3
+Maester aemon,Gilly,4,3
+Maester aemon,Sam,3,3
+Maid,Margaery,1,3
+Margaery,Cersei,7,3
+Margaery,Child,3,3
+Margaery,Joffrey,17,3
+Margaery,Loras,2,3
+Margaery,Maid,3,3
+Margaery,Olenna,4,3
+Margaery,Sansa,22,3
+Martyn,Talisa,4,3
+Meera,Bran,4,3
+Meera,Gilly,2,3
+Meera,Jojen,2,3
+Meera,Osha,11,3
+Meera,Rickon,1,3
+Meera,Sam,2,3
+Melisandre,Anguy,1,3
+Melisandre,Beric,1,3
+Melisandre,Davos,11,3
+Melisandre,Gendry,13,3
+Melisandre,Stannis,14,3
+Melisandre,Thoros,6,3
+Mero,Daario,5,3
+Mero,Daenerys,4,3
+Mero,Prendahl,4,3
+Meryn trant,Bronn,2,3
+Meryn trant,Podrick,1,3
+Missandei,Daenerys,22,3
+Missandei,Danaerys,1,3
+Missandei,Greizhen,1,3
+Missandei,Jorah,1,3
+Missandei,Kraznys,12,3
+Missandei,Kraznys mo nakloz,10,3
+Myranda,Theon,1,3
+Myranda,Violet,9,3
+Olenna,Cersei,9,3
+Olenna,Maid,1,3
+Olenna,Margaery,3,3
+Olenna,Podrick,1,3
+Olenna,Roose bolton,1,3
+Olenna,Sansa,8,3
+Olenna,Servant,1,3
+Olenna,Tyrion,11,3
+Olenna,Tywin,11,3
+Olenna,Varys,17,3
+Olyvar,Littlefinger,1,3
+Olyvar,Loras,4,3
+Orell,Jon,9,3
+Orell,Tormund,5,3
+Orell,Wildling 2,1,3
+Orell,Ygritte,6,3
+Osha,Bran,21,3
+Osha,Hodor,1,3
+Osha,Jojen,7,3
+Osha,Meera,11,3
+Osha,Rickon,2,3
+Pig farmer,The hound,1,3
+Podrick,Bronn,6,3
+Podrick,Girl,1,3
+Podrick,Olenna,1,3
+Podrick,Tyrion,8,3
+Prendahl,Daario,1,3
+Prendahl,Daenerys,1,3
+Prendahl,Mero,3,3
+Pycelle,Cersei,2,3
+Pycelle,Littlefinger,1,3
+Pyp,Sam,1,3
+Qyburn,Jaime,20,3
+Qyburn,Robb,1,3
+Qyburn,Talisa,1,3
+Radzal mo eraz,Daenerys,7,3
+Radzal mo eraz,Missandei,1,3
+Ramsay,Theon,34,3
+Rast,Craster,2,3
+Rast,Dolorous edd,2,3
+Rast,Grenn,6,3
+Rast,Jeor,2,3
+Rast,Sam,3,3
+Rattleshirt,Tormund,1,3
+Rickard karstark,Robb,14,3
+Rickard karstark,Roose bolton,1,3
+Rickard karstark,Willem,1,3
+Rickon,Bran,4,3
+Rickon,Meera,1,3
+Rickon,Osha,1,3
+Robb,Black walder,2,3
+Robb,Brynden,4,3
+Robb,Catelyn,6,3
+Robb,Edmure,14,3
+Robb,Everybody,1,3
+Robb,Lothar,1,3
+Robb,Rickard karstark,13,3
+Robb,Roose bolton,2,3
+Robb,Talisa,26,3
+Robb,Walder,1,3
+Roose,Blackfish,1,3
+Roose,Catelyn,3,3
+Roose bolton,Brienne,3,3
+Roose bolton,Jaime,8,3
+Roose bolton,Locke,1,3
+Roose bolton,Rickard karstark,2,3
+Roose bolton,Robb,2,3
+Roose bolton,Walder frey,10,3
+Ros,Shae,5,3
+Ros,Tyrion,1,3
+Ros,Varys,12,3
+Salladhor,Davos,12,3
+Sam,Baby,2,3
+Sam,Bran,1,3
+Sam,Dolorous edd,2,3
+Sam,Gilly,27,3
+Sam,Grenn,2,3
+Sam,Hodor,1,3
+Sam,Jeor,2,3
+Sam,Jojen,5,3
+Sam,Jon,1,3
+Sam,Maester aemon,2,3
+Sam,Meera,2,3
+Sam,Rast,2,3
+Samwell,Gilly,2,3
+Sansa,Joffrey,2,3
+Sansa,Littlefinger,11,3
+Sansa,Loras,6,3
+Sansa,Margaery,23,3
+Sansa,Olenna,9,3
+Sansa,Shae,14,3
+Sansa,Tyrion,23,3
+Selyse,Stannis,8,3
+Servant,Olenna,1,3
+Shae,Ros,4,3
+Shae,Sansa,13,3
+Shae,Tyrion,27,3
+Shae,Varys,8,3
+Shireen,Davos,15,3
+Shireen,Stannis,4,3
+Stannis,Davos,25,3
+Stannis,Melisandre,11,3
+Stannis,Selyse,8,3
+Stannis,Shireen,5,3
+Talisa,Brynden,1,3
+Talisa,Catelyn,8,3
+Talisa,Martyn,5,3
+Talisa,Qyburn,2,3
+Talisa,Robb,24,3
+Talisa,Roose bolton,1,3
+The hound,Anguy,5,3
+The hound,Arya,17,3
+The hound,Beric,8,3
+The hound,Pig farmer,1,3
+The hound,Thoros,5,3
+Theon,Myranda,5,3
+Theon,Ramsay,31,3
+Theon,Ramsey,1,3
+Theon,Torturer,7,3
+Thoros,Anguy,4,3
+Thoros,Arya,22,3
+Thoros,Beric,8,3
+Thoros,Gendry,6,3
+Thoros,Hot pie,1,3
+Thoros,Melisandre,7,3
+Thoros,The hound,4,3
+Tormund,Jon,4,3
+Tormund,Orell,7,3
+Tormund,Rattleshirt,1,3
+Tormund,Ygritte,1,3
+Torturer,Theon,8,3
+Tyrion,Bronn,30,3
+Tyrion,Cersei,28,3
+Tyrion,Joffrey,4,3
+Tyrion,Littlefinger,11,3
+Tyrion,Olenna,11,3
+Tyrion,Podrick,6,3
+Tyrion,Sansa,23,3
+Tyrion,Shae,27,3
+Tyrion,Tywin,38,3
+Tyrion,Varys,6,3
+Tywin,Cersei,15,3
+Tywin,Joffrey,14,3
+Tywin,Littlefinger,1,3
+Tywin,Olenna,14,3
+Tywin,Tyrion,39,3
+Tywin,Varys,2,3
+Unsullied,Kraznys mo nakloz,1,3
+Varys,Joffrey,1,3
+Varys,Littlefinger,4,3
+Varys,Olenna,14,3
+Varys,Ros,10,3
+Varys,Shae,7,3
+Varys,Tyrion,6,3
+Varys,Tywin,2,3
+Violet,Myranda,3,3
+Violet,Theon,5,3
+Walder,Catelyn,2,3
+Walder,Merry,1,3
+Walder,Robb,1,3
+Walder,Talisa,1,3
+Walder frey,Roose bolton,8,3
+Whore,Bronn,1,3
+Wildling 2,Wildling 1,1,3
+Yara,Balon,2,3
+Ygritte,Boy,2,3
+Ygritte,Jon,44,3
+Ygritte,Jon snow,2,3
+Ygritte,Orell,4,3
+Ygritte,Tormund,3,3

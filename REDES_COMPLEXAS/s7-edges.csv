@@ -1,0 +1,263 @@
+Source,Target,Weight,Season
+All,Sansa,1,7
+Archers,Jaime,1,7
+Arya,Bran,4,7
+Arya,Brienne,4,7
+Arya,Hot pie,12,7
+Arya,Sansa,47,7
+Baelish,Bran,1,7
+Baelish,Jon,2,7
+Baelish,Sansa,3,7
+Baelish,Wolkan,1,7
+Benjen,Jon snow,1,7
+Beric,Davos,1,7
+Beric,Jon,9,7
+Beric,Jon snow,2,7
+Beric,Jorah,1,7
+Beric,Sandor,12,7
+Beric,Thoros,2,7
+Beric,Tormud,1,7
+Beric,Tormund,1,7
+Bran,Arya,4,7
+Bran,Baelish,2,7
+Bran,Littlefinger,1,7
+Bran,Lyanna,1,7
+Bran,Meera,6,7
+Bran,Sam,8,7
+Bran,Sansa,14,7
+Brienne,Jaime,2,7
+Brienne,Podrick,2,7
+Brienne,Sandor,5,7
+Brienne,Sansa,6,7
+Bronn,Davos,1,7
+Bronn,Dickon,2,7
+Bronn,Jaime,25,7
+Bronn,Podrick,1,7
+Bronn,Tyrion,3,7
+Bronn,Varys,1,7
+Captain,Theon,2,7
+Cersei,Daenerys,3,7
+Cersei,Euron,7,7
+Cersei,Jaime,51,7
+Cersei,Jon,4,7
+Cersei,Messenger,1,7
+Cersei,Qyburn,5,7
+Cersei,Tycho,16,7
+Cersei,Tyrion,17,7
+Daenerys,Cersei,4,7
+Daenerys,Davos,4,7
+Daenerys,Ellaria,1,7
+Daenerys,Jaime,1,7
+Daenerys,Jon,35,7
+Daenerys,Jon snow,4,7
+Daenerys,Jorah,2,7
+Daenerys,Melisandre,3,7
+Daenerys,Melisdandre,1,7
+Daenerys,Missandei,2,7
+Daenerys,Oleanna,1,7
+Daenerys,Olenna,1,7
+Daenerys,Randyll,1,7
+Daenerys,Tyrion,46,7
+Daenerys,Varys,15,7
+Daerneys,Tyrion,1,7
+Davos,Beric,1,7
+Davos,Daenerys,1,7
+Davos,Daerneys,1,7
+Davos,Gendry,9,7
+Davos,Jon,11,7
+Davos,Jorah,1,7
+Davos,Missandei,4,7
+Davos,Sansa,2,7
+Davos,Theon,1,7
+Davos,Tormund,1,7
+Davos,Tyrion,7,7
+Dickon,Bronn,1,7
+Dickon,Jaime,5,7
+Dickon,Randyll,3,7
+Edd,Meera,1,7
+Ellaria,Tyrion,1,7
+Ellaria,Yara,6,7
+Ellia,Tyrion,1,7
+Ellia,Yara,1,7
+Euron,Cersei,6,7
+Euron,Jaime,6,7
+Euron,Jon,1,7
+Euron,Tyrion,3,7
+Gendry,Beric,2,7
+Gendry,Davos,10,7
+Gendry,Jon,5,7
+Gendry,Jon snow,1,7
+Gendry,Sandor,3,7
+Gendry,Thoros,2,7
+Gendry,Tormund,2,7
+Gilly,Sam,1,7
+Gilly,Samwell,3,7
+Grey worm,Missandei,5,7
+Grey worm,Unsullied 1,1,7
+Grey worm,Varys,1,7
+Greyworm,Missandei,1,7
+Harrag,Theon,5,7
+Hot pie,Arya,12,7
+Jaime,Brienne,3,7
+Jaime,Bronn,22,7
+Jaime,Cersei,52,7
+Jaime,Daenerys,1,7
+Jaime,Dickon,4,7
+Jaime,Euron,5,7
+Jaime,Olenna,13,7
+Jaime,Randyll,8,7
+Jaime,Tyrion,6,7
+Jon,Baelish,1,7
+Jon,Beric,10,7
+Jon,Cersei,2,7
+Jon,Daenerys,36,7
+Jon,Davos,10,7
+Jon,Euron,1,7
+Jon,Gendry,4,7
+Jon,Jorah,6,7
+Jon,Missandei,5,7
+Jon,Sansa,19,7
+Jon,Theon,10,7
+Jon,Thoros,1,7
+Jon,Tormund,7,7
+Jon,Tyrion,28,7
+Jon snow,Benjen,1,7
+Jon snow,Beric,1,7
+Jon snow,Daenerys,5,7
+Jon snow,Gendry,1,7
+Jon snow,Jorah,2,7
+Jon snow,Tormund,1,7
+Jorah,Daenerys,3,7
+Jorah,Gendry,1,7
+Jorah,Jon,5,7
+Jorah,Jon snow,1,7
+Jorah,Marwyn,4,7
+Jorah,Missandei,1,7
+Jorah,Sam,1,7
+Jorah,Samwell,5,7
+Jorah,Sandor,1,7
+Jorah,Thoros,1,7
+Jorah,Tormund,2,7
+Jorah,Tyrion,1,7
+Littlefinger,Arya,1,7
+Littlefinger,Sansa,26,7
+Lyanna,Bran,1,7
+Lyanna,Rhaegar,1,7
+Lyanna,Robett,1,7
+Lyanna mormont,Robett glover,1,7
+Maester 1,Marwyn,2,7
+Maester 1,Samwell,1,7
+Maester 2,Marwyn,1,7
+Marwyn,Jorah,4,7
+Marwyn,Maester 1,3,7
+Marwyn,Maester 2,1,7
+Marwyn,Sam,8,7
+Marwyn,Samwell,19,7
+Meera,Bran,5,7
+Meera,Edd,1,7
+Melisandre,Daenerys,3,7
+Melisandre,Varys,9,7
+Melisdandre,Daenerys,1,7
+Messenger,Cersei,1,7
+Missandei,Daenerys,3,7
+Missandei,Davos,4,7
+Missandei,Grey worm,6,7
+Missandei,Greyworm,1,7
+Missandei,Jon,5,7
+Missandei,Tyrion,1,7
+Missandei,Varys,1,7
+Ned & alys,Jon,1,7
+Nymeria,Obara,1,7
+Obara,Nymeria,1,7
+Obara,Tyene,2,7
+Oleanna,Daenerys,1,7
+Olenna,Daenerys,1,7
+Olenna,Jaime,9,7
+Olenna,Tyrion,1,7
+Petyr,Sansa,2,7
+Podrick,Brienne,1,7
+Podrick,Tyrion,4,7
+Qyburn,Cersei,7,7
+Randyll,Daenerys,1,7
+Randyll,Jaime,9,7
+Randyll,Tyrion,2,7
+Robett,Jon,1,7
+Robett,Lyanna,1,7
+Sam,Bran,9,7
+Sam,Gilly,4,7
+Sam,Jorah,2,7
+Sam,Marwyn,6,7
+Samwell,Gilly,2,7
+Samwell,Jorah,7,7
+Samwell,Maester 1,1,7
+Samwell,Marwyn,17,7
+Sandor,Beric,13,7
+Sandor,Brienne,5,7
+Sandor,Gendry,4,7
+Sandor,Thoros,10,7
+Sandor,Tormund,10,7
+Sandor,Tyrion,1,7
+Sansa,Arya,48,7
+Sansa,Baelish,3,7
+Sansa,Bran,11,7
+Sansa,Brienne,7,7
+Sansa,Davos,1,7
+Sansa,Jon,25,7
+Sansa,Littlefinger,27,7
+Sansa,Petyr,3,7
+Sansa,Wolkan,3,7
+Sansa,Yohn,4,7
+Theon,Captain,2,7
+Theon,Davos,2,7
+Theon,Harrag,5,7
+Theon,Jon,8,7
+Theon,Tyrion,1,7
+Theon,Yara,1,7
+Thoros,Beric,2,7
+Thoros,Gendry,1,7
+Thoros,Jorah,5,7
+Thoros,Sandor,11,7
+Tormud,Sandor,1,7
+Tormund,Beric,1,7
+Tormund,Davos,1,7
+Tormund,Gendry,1,7
+Tormund,Jon,7,7
+Tormund,Jon snow,3,7
+Tormund,Jorah,1,7
+Tormund,Sandor,10,7
+Tormund,Thoros,1,7
+Tycho,Cersei,15,7
+Tyene,Nymeria,1,7
+Tyene,Obara,1,7
+Tyrion,Bronn,4,7
+Tyrion,Cersei,20,7
+Tyrion,Daenerys,48,7
+Tyrion,Davos,6,7
+Tyrion,Dickon,1,7
+Tyrion,Ellaria,1,7
+Tyrion,Ellia,1,7
+Tyrion,Jaime,4,7
+Tyrion,Jon,24,7
+Tyrion,Jorah,1,7
+Tyrion,Melisandre,2,7
+Tyrion,Missandei,2,7
+Tyrion,Podrick,3,7
+Tyrion,Randyll,1,7
+Tyrion,Sandor,2,7
+Tyrion,Theon,1,7
+Tyrion,Varys,4,7
+Tyrion,Yara,1,7
+Varys,Daenerys,14,7
+Varys,Jon,1,7
+Varys,Melisandre,5,7
+Varys,Missandei,1,7
+Varys,Tyrion,11,7
+Wolkan,Baelish,1,7
+Wolkan,Jon,1,7
+Wolkan,Sandor,1,7
+Wolkan,Sansa,3,7
+Yara,Daenerys,1,7
+Yara,Ellaria,5,7
+Yara,Theon,1,7
+Yohn,Sansa,4,7
+Yohn royce,Littlefinger,1,7

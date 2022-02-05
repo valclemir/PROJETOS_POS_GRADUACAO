@@ -1,0 +1,440 @@
+Source,Target,Weight,Season
+Ahsa,Theon,2,2
+All,Sansa,1,2
+All three,Balon,1,2
+Alton,Cersei,2,2
+Alton,Jaime,23,2
+Alton,Robb,7,2
+Amory,Arya,4,2
+Amory,Tywin,3,2
+Amory,Yoren,3,2
+Announcer,Joffrey,1,2
+Armory,Hot pie,1,2
+Armory,Tywin,1,2
+Arya,Amory,4,2
+Arya,Gendry,26,2
+Arya,Hot pie,11,2
+Arya,Jaqen,33,2
+Arya,Rorge,2,2
+Arya,Twyin,1,2
+Arya,Tywin,32,2
+Arya,Yoren,6,2
+Ayra,Hot pie,1,2
+Baelish,Cersei,8,2
+Baelish,Pycelle,1,2
+Baelish,Roz,4,2
+Baelish,Varys,1,2
+Balon,Theon,15,2
+Balon,Yara,2,2
+Black lorren,Theon,7,2
+Blacksmith,Janos,4,2
+Bran,Farlen,1,2
+Bran,Lord,2,2
+Bran,Luwin,6,2
+Bran,Osha,15,2
+Bran,Rickon,3,2
+Bran,Rodrik,4,2
+Bran,Theon,10,2
+Brienne,Catelyn,12,2
+Brienne,Jacks,1,2
+Brienne,Jaime,14,2
+Brienne,Renly,2,2
+Brinenne,Jaime,2,2
+Bronn,Haylene,5,2
+Bronn,Lancel,1,2
+Bronn,Meryn,1,2
+Bronn,Prostitute,3,2
+Bronn,The hound,2,2
+Bronn,Tyrion,28,2
+Bronn,Varys,3,2
+Catelyin,Robb,1,2
+Catelyn,Brienne,12,2
+Catelyn,Colen,1,2
+Catelyn,Jacks,1,2
+Catelyn,Jaime,9,2
+Catelyn,Littlefinger,8,2
+Catelyn,Loras,2,2
+Catelyn,Margaery,1,2
+Catelyn,Renly,4,2
+Catelyn,Rickard,1,2
+Catelyn,Rickard karstark,5,2
+Catelyn,Robb,25,2
+Catelyn,Roose,2,2
+Catelyn,Stannis,3,2
+Catelyn,Talisa,2,2
+Catelyn,Theon,1,2
+Catelyn ,Rickard karstark,1,2
+Cersei,Alton,2,2
+Cersei,Baelish,9,2
+Cersei,Gold cloak,1,2
+Cersei,Janos,2,2
+Cersei,Joffrey,9,2
+Cersei,Lancel,9,2
+Cersei,Pycelle,4,2
+Cersei,Sansa,22,2
+Cersei,Shae,4,2
+Cersei,Tyrion,63,2
+Cersei,Tywin,1,2
+Cersei,Varys,2,2
+Cesei,Tyrion,1,2
+Craster,Edd,1,2
+Craster,Gilly,1,2
+Craster,Jon,2,2
+Craster,Lord mormont,9,2
+Cressen,Davos,2,2
+Cressen,Melisandre,2,2
+Cressen,Stannis,1,2
+Crowd,Protester,1,2
+Daenerys,Doreah,4,2
+Daenerys,Drogo,1,2
+Daenerys,Irri,4,2
+Daenerys,Jorah,38,2
+Daenerys,Kovarro,5,2
+Daenerys,Pyat pree,3,2
+Daenerys,Pyatt pree,1,2
+Daenerys,Rakharo,2,2
+Daenerys,Silk king,1,2
+Daenerys,Spice king,19,2
+Daenerys,Xaro,21,2
+Dagmer,Black lorren,1,2
+Dagmer,Theon,13,2
+Daisy,Joffrey,1,2
+Daisy,Roz,3,2
+Davos,Cressen,4,2
+Davos,Matthos,19,2
+Davos,Melisandre,9,2
+Davos,Saan,9,2
+Davos,Stannis,39,2
+Davos,Tyrion,1,2
+Dolorous edd,Grenn,4,2
+Dolorous edd,Jon,1,2
+Dolorous edd,Sam,7,2
+Doreah,Daenerys,4,2
+Doreah,Irri,1,2
+Doreah,Xaro,2,2
+Drogo,Daenerys,1,2
+Drowned priest,Theon,2,2
+Edd,Craster,1,2
+Edd,Grenn,3,2
+Edd,Sam,4,2
+Eddision,Sam,1,2
+Ersei,Pycelle,1,2
+Farlen,Bran,1,2
+Farlen,Theon,1,2
+Gendry,Arya,26,2
+Gendry,Hot pie,7,2
+Gendry,The tickler,1,2
+Gendry,Yoren,1,2
+Gerard,Renly,1,2
+Gilly,Craster,1,2
+Gilly,Jon,3,2
+Gilly,Sam,3,2
+Gold cloak,Arya,1,2
+Gold cloak,Yoren,3,2
+Grenn,Dolorous edd,4,2
+Grenn,Edd,2,2
+Grenn,Sam,12,2
+Handmaiden,Shae,1,2
+Haylene,Bronn,3,2
+Haylene,Tyrion,2,2
+Hodor,Bran,1,2
+Hodor,Osha,2,2
+Hot pie,Arya,10,2
+Hot pie,Ayra,1,2
+Hot pie,Gendry,6,2
+Hot pie,Lommy,3,2
+Hound,Joffrey,2,2
+Hound,Tyrion,1,2
+Irri,Daenerys,3,2
+Irri,Doreah,2,2
+Jacks,Brienne,2,2
+Jacks,Catelyn,1,2
+Jaime,Alton,22,2
+Jaime,Brienne,15,2
+Jaime,Catelyn,7,2
+Jaime,Robb,8,2
+Janos,Baelish,1,2
+Janos,Blacksmith,4,2
+Janos,Bronn,1,2
+Janos,Cersei,3,2
+Janos,Roz,2,2
+Janos,Tyrion,14,2
+Jaqen,Arya,35,2
+Jaqen,Rorge,2,2
+Jeor,Jon,9,2
+Jeor,Qhorin,5,2
+Jeor,Sam,2,2
+Joffrey,Bronn,1,2
+Joffrey,Cersei,8,2
+Joffrey,Hound,1,2
+Joffrey,Lancel,2,2
+Joffrey,Loras,1,2
+Joffrey,Margaery,1,2
+Joffrey,Ros,2,2
+Joffrey,Sansa,13,2
+Joffrey,Ser dontos,3,2
+Joffrey,The hound,2,2
+Joffrey,Tyrion,16,2
+Joffrey,Varys,1,2
+Jon,Craster,2,2
+Jon,Edd,2,2
+Jon,Gilly,3,2
+Jon,Grenn,2,2
+Jon,Jeor,9,2
+Jon,Lord mormont,3,2
+Jon,Qhorin,16,2
+Jon,Quorin,3,2
+Jon,Sam,11,2
+Jon,Ygritte,36,2
+Jorah,Daenerys,40,2
+Jorah,Kovarro,1,2
+Jorah,Quaith,4,2
+Jorah,Quaithe,2,2
+Kevan,Twyin,1,2
+Kevan,Tywin,2,2
+Kovarro,Daenerys,4,2
+Kovarro,Jorah,1,2
+Lancel,Cersei,8,2
+Lancel,Joffrey,1,2
+Lancel,Tyrion,24,2
+Littlefinger,Arya,1,2
+Littlefinger,Catelyn,9,2
+Littlefinger,Joffrey,1,2
+Littlefinger,Loras,5,2
+Littlefinger,Margaery,8,2
+Littlefinger,Renly,6,2
+Littlefinger,Sansa,3,2
+Littlefinger,Tyrion,10,2
+Littlefinger,Tywin,11,2
+Lommy,Hot pie,2,2
+Lommy,Polliver,2,2
+Loras,Brienne,1,2
+Loras,Catelyn,1,2
+Loras,Crowd,1,2
+Loras,Jofffrey,1,2
+Loras,Littlefinger,4,2
+Loras,Margaery,3,2
+Loras,Renly,4,2
+Lord,Bran,2,2
+Lord,Luwin,2,2
+Lord mormont,Craster,12,2
+Lord mormont,Jon,3,2
+Lord of bones,Ygritte,4,2
+Luwin,Bran,7,2
+Luwin,Lord,2,2
+Luwin,Osha,5,2
+Luwin,Rickon,1,2
+Luwin,Rodrik,2,2
+Luwin,Theon,19,2
+Margaery,Littlefinger,11,2
+Margaery,Loras,2,2
+Margaery,Renly,8,2
+Matthos,Davos,17,2
+Matthos,Saan,4,2
+Matthos,Stannis,1,2
+Melisandre,Cressen,1,2
+Melisandre,Crowd,1,2
+Melisandre,Davos,10,2
+Melisandre,Renly,2,2
+Melisandre,Stannis,17,2
+Meryn,Tyrion,3,2
+Mhaegan,Janos,1,2
+Mountian,Tywin,1,2
+Myrcella,Cersei,1,2
+Myrcella,Joffrey,1,2
+Osha,Bran,16,2
+Osha,Hodor,1,2
+Osha,Luwin,5,2
+Osha,Rikon,1,2
+Osha,Theon,9,2
+Podrick,Janos,1,2
+Podrick,Tyrion,5,2
+Polliver,Armory,1,2
+Polliver,Arya,1,2
+Polliver,Lommy,1,2
+Polliver,The mountain,1,2
+Portan,Luwin,1,2
+Prisoner,The tickler,11,2
+Prostitute,Bronn,2,2
+Protester,Crowd,1,2
+Pyat pree,Daenerys,2,2
+Pyat pree,Spice king,1,2
+Pyat pree,Xaro,1,2
+Pyatt pree,Daenerys,1,2
+Pycelle,Cersei,5,2
+Pycelle,Ersei,1,2
+Pycelle,Joffrey,1,2
+Pycelle,Podrick,1,2
+Pycelle,Tyrion,16,2
+Pycelle,Varys,1,2
+Qhorin,Jeor,5,2
+Qhorin,Jon,20,2
+Qhorin,Ygritte,5,2
+Quaith,Jorah,4,2
+Quaithe,Jorah,2,2
+Quorin,Jon,3,2
+Rakharo,Daenerys,3,2
+Rattleshirt,Jon,1,2
+Rattleshirt,Qhorin,1,2
+Rattleshirt,Wildling,1,2
+Reginald,Tywin,2,2
+Renly,Brienne,2,2
+Renly,Catelyn,8,2
+Renly,Gerard,2,2
+Renly,Littlefinger,4,2
+Renly,Loras,3,2
+Renly,Margaery,4,2
+Renly,Melisandre,2,2
+Renly,Stannis,5,2
+Rickard,Catelyn,1,2
+Rickard karstark,Brienne,1,2
+Rickard karstark,Catelyn,6,2
+Rickard karstark,Robb,4,2
+Rickon,Bran,3,2
+Rickon,Luwin,1,2
+Rickon,Osha,1,2
+Rikon,Bran,1,2
+Robb,Alton,7,2
+Robb,Catelyn,25,2
+Robb,Catelyn ,1,2
+Robb,Jaime,7,2
+Robb,Quent,1,2
+Robb,Rickard karstark,2,2
+Robb,Rider,1,2
+Robb,Roose,5,2
+Robb,Roose bolton,8,2
+Robb,Septon,1,2
+Robb,Talisa,44,2
+Robb,The others at the table,1,2
+Robb,Theon,5,2
+Rodrik,Bran,4,2
+Rodrik,Luwin,1,2
+Rodrik,Theon,6,2
+Roose,Rickard karstark,1,2
+Roose,Robb,6,2
+Roose bolton,Robb,9,2
+Roose bolton,Talisa,1,2
+Rorge,Arya,2,2
+Rorge,Gendry,1,2
+Rorge,Jaqen,2,2
+Ros,Daisy,3,2
+Ros,Joffrey,1,2
+Ros,Tyrion,1,2
+Ros,Varys,10,2
+Roz,Baelish,3,2
+Roz,Daisy,3,2
+Roz,Janos,1,2
+Saan,Davos,10,2
+Saan,Matthos,3,2
+Sam,Dolorous edd,6,2
+Sam,Edd,2,2
+Sam,Eddision,1,2
+Sam,Gilly,4,2
+Sam,Grenn,9,2
+Sam,Jeor,1,2
+Sam,Jon,10,2
+Sam,Qhorin,2,2
+Sansa,Cersei,21,2
+Sansa,Cersel,1,2
+Sansa,Joffrey,13,2
+Sansa,Littlefinger,3,2
+Sansa,Shae,19,2
+Sansa,The hound,8,2
+Sansa,Tyrion,4,2
+Ser dontos,Announcer,1,2
+Ser dontos,Joffrey,3,2
+Shae,Cersei,5,2
+Shae,Sansa,22,2
+Shae,Tyrion,33,2
+Shae,Varys,3,2
+Silk king,Daenerys,1,2
+Spice king,Daenerys,22,2
+Spice king,Xaro,4,2
+Stannis,Catelyn,2,2
+Stannis,Davos,42,2
+Stannis,Matthos,6,2
+Stannis,Melisandre,16,2
+Stannis,Renly,7,2
+Talisa,Catelyin,1,2
+Talisa,Catelyn,2,2
+Talisa,Robb,47,2
+Talisa,Roose bolton,1,2
+The group,Melisandre,1,2
+The hound,Bronn,3,2
+The hound,Joffrey,3,2
+The hound,Podrick,1,2
+The hound,Sansa,9,2
+The hound,Tyrion,4,2
+The mountain,Tywin,3,2
+The others at the table,Ser rodrik,1,2
+The tickler,Gendry,1,2
+The tickler,Prisoner,6,2
+Theon,Ahsa,2,2
+Theon,Balon,17,2
+Theon,Black lorren,5,2
+Theon,Bran,11,2
+Theon,Child,1,2
+Theon,Dagmer,10,2
+Theon,Ironborn,1,2
+Theon,Jaime,1,2
+Theon,Jorah,1,2
+Theon,Luwin,16,2
+Theon,Osha,12,2
+Theon,Robb,5,2
+Theon,Rodrik,5,2
+Theon,Yara,28,2
+Timett,Pycelle,1,2
+Trion,Shae,1,2
+Twyin,Arya,1,2
+Twyin,The mountain,1,2
+Tyrion,Alton,1,2
+Tyrion,Bronn,25,2
+Tyrion,Cersei,66,2
+Tyrion,Cersel,1,2
+Tyrion,Cesei,1,2
+Tyrion,Haylene,2,2
+Tyrion,Janos,16,2
+Tyrion,Joffrey,18,2
+Tyrion,Lancel,25,2
+Tyrion,Littlefinger,12,2
+Tyrion,Meryn,1,2
+Tyrion,Podrick,3,2
+Tyrion,Protester,1,2
+Tyrion,Pycelle,11,2
+Tyrion,Ros,1,2
+Tyrion,Sansa,3,2
+Tyrion,Shae,32,2
+Tyrion,The hound,3,2
+Tyrion,Timett,1,2
+Tyrion,Varys,41,2
+Tywin,Amory,3,2
+Tywin,Armory,1,2
+Tywin,Arya,30,2
+Tywin,Kevan,4,2
+Tywin,Littlefinger,10,2
+Tywin,Mountian,1,2
+Tywin,Polliver,1,2
+Tywin,Reginald,3,2
+Tywin,The mountain,2,2
+Varys,Baelish,1,2
+Varys,Bronn,4,2
+Varys,Cersei,1,2
+Varys,Joffrey,1,2
+Varys,Podrick,1,2
+Varys,Pycelle,1,2
+Varys,Ros,9,2
+Varys,Shae,3,2
+Varys,Tyrion,40,2
+Wildling,Rattleshirt,1,2
+Xaro,Daenerys,22,2
+Xaro,Doreah,3,2
+Xaro,Spice king,7,2
+Yara,Balon,2,2
+Yara,Theon,33,2
+Ygritte,Jon,34,2
+Ygritte,Lord of bones,4,2
+Ygritte,Qhorin,5,2
+Yoren,Amory,1,2
+Yoren,Arya,3,2
+Yoren,Gendry,1,2
+Yoren,Gold cloak,2,2

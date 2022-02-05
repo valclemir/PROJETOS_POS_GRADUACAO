@@ -1,0 +1,612 @@
+Source,Target,Weight,Season
+Addam marbrand,Leo lefford,2,1
+All,Greatjon umber,1,1
+All,Grenn,1,1
+Alliser thorne,Grenn,2,1
+Alliser thorne,Jon snow,2,1
+Alliser thorne,Pyp,1,1
+Alliser thorne,Rast,1,1
+Alliser thorne,Samwell tarly,3,1
+Arya,Robert,2,1
+Arya stark,Cersei baratheon,2,1
+Arya stark,Eddard stark,25,1
+Arya stark,Gendry,2,1
+Arya stark,Guard 1,3,1
+Arya stark,Hot pie,1,1
+Arya stark,Joffrey baratheon,2,1
+Arya stark,Jon snow,8,1
+Arya stark,Jory cassel,1,1
+Arya stark,King’s landing baker,2,1
+Arya stark,Petyr baelish,1,1
+Arya stark,Sansa stark,12,1
+Arya stark,Septa mordane,2,1
+Arya stark,Soldier 2,1,1
+Arya stark,Stable boy,3,1
+Arya stark,Street urchin,1,1
+Arya stark,Syrio forel,11,1
+Arya stark,Yoren,4,1
+Assassin,Robb stark,1,1
+Barristan selmy,Cersei lannister,1,1
+Barristan selmy,Eddard stark,7,1
+Barristan selmy,Jaime lannister,2,1
+Barristan selmy,Lord varys,1,1
+Barristan selmy,Ned stark,1,1
+Barristan selmy,Petyr baelish,1,1
+Barristan selmy,Robert baratheon,4,1
+Barriston,Robert baratheon,1,1
+Benjen,Jon,5,1
+Benjen,Ned,3,1
+Benjen,Robb,1,1
+Benjen stark,Jon snow,4,1
+Benjen stark,Tyrion lannister,4,1
+Benjen stark,Yoren,1,1
+Beric dondarrion,Eddard stark,1,1
+Bran,Catelyn,3,1
+Bran,Jaime,1,1
+Bran,Jon,1,1
+Bran,Ned,4,1
+Bran,Theon,2,1
+Bran stark,Maester luwin,21,1
+Bran stark,Old nan,2,1
+Bran stark,Osha,3,1
+Bran stark,Rickon stark,4,1
+Bran stark,Robb stark,5,1
+Bran stark,Theon greyjoy,2,1
+Bran stark,Tyrion lannister,4,1
+Bran stark,Wildling,3,1
+Brann stark,Osha,1,1
+Brann stark,Rickon stark,1,1
+Brann stark,Robb stark,3,1
+Bronn,Lannister soldier ,1,1
+Bronn,Lysa arryn,2,1
+Bronn,Rodrik cassel,1,1
+Bronn,Shae,4,1
+Bronn,Tyrion lannister,24,1
+Cassel,Bran,1,1
+Cassel,Ned,1,1
+Catelyn,Bran,3,1
+Catelyn,Luwin,3,1
+Catelyn,Maester luwin,1,1
+Catelyn,Ned,12,1
+Catelyn,Robert,1,1
+Catelyn,Sansa,4,1
+Catelyn stark,Assassin,1,1
+Catelyn stark,Cersei baratheon,3,1
+Catelyn stark,Eddard stark,6,1
+Catelyn stark,Everyone,1,1
+Catelyn stark,Greatjon umber,1,1
+Catelyn stark,Guard,2,1
+Catelyn stark,Jaime lannister,8,1
+Catelyn stark,Jon snow,2,1
+Catelyn stark,Knight of house whent,2,1
+Catelyn stark,Lysa arryn,3,1
+Catelyn stark,Maester luwin,4,1
+Catelyn stark,Marillion,1,1
+Catelyn stark,Masha heddle,1,1
+Catelyn stark,Petyr baelish,8,1
+Catelyn stark,Robb stark,27,1
+Catelyn stark,Rodrick cassel,2,1
+Catelyn stark,Rodrik cassel,2,1
+Catelyn stark,Stark guard,1,1
+Catelyn stark,Theon greyjoy,3,1
+Catelyn stark,Tyrion lannister,8,1
+Catelyn stark,Vardis egen,4,1
+Catelyn stark,Varys,3,1
+Catelyn stark,Walder frey,8,1
+Cersei,Catelyn,1,1
+Cersei,Jaime,6,1
+Cersei,Robert,1,1
+Cersei,Sansa,2,1
+Cersei baratheon,Arya stark,1,1
+Cersei baratheon,Catelyn stark,3,1
+Cersei baratheon,Eddard stark,19,1
+Cersei baratheon,Jaime lannister,5,1
+Cersei baratheon,Joffrey baratheon,11,1
+Cersei baratheon,Robert baratheon,21,1
+Cersei baratheon,Sansa stark,1,1
+Cersei baratheon,Soldier,1,1
+Cersei baratheon,Tyrion lannister,4,1
+Cersei lannister,Barristan selmy,4,1
+Cersei lannister,King joffrey,1,1
+Cersei lannister,King's landing page,1,1
+Cersei lannister,Lancel lannister,1,1
+Cersei lannister,Ned stark,10,1
+Cersei lannister,Sansa stark,4,1
+Cohollo,Khal drogo,1,1
+Daenarys stormborn,Jorah mormont,4,1
+Daenarys stormborn,Khal drogo,2,1
+Daenarys stormborn,Mago,1,1
+Daenarys stormborn,Mirri maz duur,2,1
+Daenarys stormborn,Qotho,2,1
+Daenerys,Illyrio,1,1
+Daenerys,Jorah,1,1
+Daenerys,Khal drogo,2,1
+Daenerys,Viserys,3,1
+Daenerys stormborn,Jorah mormont,2,1
+Daenerys stormborn,Khal drogo,5,1
+Daenerys stormborn,Wine merchant,3,1
+Daenerys targaryen,Doreah,10,1
+Daenerys targaryen,Irri,5,1
+Daenerys targaryen,Jhiqui,1,1
+Daenerys targaryen,Jorah mormont,32,1
+Daenerys targaryen,Khal drogo,1,1
+Daenerys targaryen,Mirri maz duur,13,1
+Daenerys targaryen,Qotho,7,1
+Daenerys targaryen,Rakharo,2,1
+Daenerys targaryen,Viserys targaryen,9,1
+Doreah,Daenerys targaryen,8,1
+Doreah,Jhiqui,1,1
+Doreah,Viserys targaryen,12,1
+Doreah,Wine merchant,1,1
+Dothraki man,Jorah mormont,1,1
+Eddard stark,Arya stark,29,1
+Eddard stark,Barristan selmy,8,1
+Eddard stark,Catelyn stark,7,1
+Eddard stark,Cersei baratheon,12,1
+Eddard stark,Gendry,4,1
+Eddard stark,Grand maester pycelle,22,1
+Eddard stark,Jaime lannister,9,1
+Eddard stark,Janos slynt,3,1
+Eddard stark,Jon snow,1,1
+Eddard stark,Jory cassel,10,1
+Eddard stark,King’s landing guard,1,1
+Eddard stark,Mhaegen,4,1
+Eddard stark,Petyr baelish,30,1
+Eddard stark,Renly baratheon,1,1
+Eddard stark,Robert baratheon,38,1
+Eddard stark,Sansa stark,6,1
+Eddard stark,Septa mordane,2,1
+Eddard stark,Steward,2,1
+Eddard stark,Tobho mott,4,1
+Eddard stark,Varys,22,1
+Eddard stark,Yoren,3,1
+Everyone,Catelyn stark,1,1
+Galbart glover,Jonos bracken,1,1
+Gared,Royce,2,1
+Gared,Will,2,1
+Gendry,Arya stark,2,1
+Gendry,Eddard stark,5,1
+Gendry,Tobho mott,1,1
+Grand maester pycelle,Eddard stark,20,1
+Grand maester pycelle,Eddark stark,1,1
+Grand maester pycelle,Lord varys,1,1
+Grand maester pycelle,Man,2,1
+Grand maester pycelle,Petyr baelish,3,1
+Grand maester pycelle,Ros,4,1
+Grand maester pycelle,Sansa stark,3,1
+Grand maester pycelle,Varys,1,1
+Greatjon umber,Catelyn stark,2,1
+Greatjon umber,Galbart glover,1,1
+Greatjon umber,Lannister scout,1,1
+Greatjon umber,Robb stark,5,1
+Greatjon umber,Rodrik cassel,1,1
+Greatjon umber,Theon greyjoy,2,1
+Grenn,Alliser thorne,1,1
+Grenn,Jon snow,5,1
+Grenn,Pyp,9,1
+Grenn,Samwell tarly,4,1
+Grenn,Tyrion lannister,1,1
+Guard,Catelyn stark,2,1
+Guard 1,Arya stark,1,1
+Guard 1,Guard 2,1,1
+Guard 2,Arya stark,1,1
+Hot pie,Lommy greenhands,5,1
+Hugh of the vale,Jory cassel,3,1
+Illyrio,Viserys,8,1
+Illyrio mopatis,Varys,4,1
+Irri,Daenerys targaryen,5,1
+Irri,Doreah,2,1
+Irri,Jorah mormont,2,1
+Irri,Rakharo,3,1
+Jaime,Cersei,6,1
+Jaime,Ned,4,1
+Jaime,Tyrion,3,1
+Jaime lannister,Barristan selmy,1,1
+Jaime lannister,Catelyn stark,10,1
+Jaime lannister,Cersei baratheon,8,1
+Jaime lannister,Eddard stark,7,1
+Jaime lannister,Jon snow,4,1
+Jaime lannister,Jory cassel,12,1
+Jaime lannister,Petyr baelish,2,1
+Jaime lannister,Robb stark,1,1
+Jaime lannister,Robert baratheon,3,1
+Jaime lannister,Tyrion lannister,3,1
+Jaime lannister,Tywin lannister,6,1
+Janos slynt,Eddard stark,2,1
+Janos slynt,Renly baratheon,1,1
+Jeor mormont,Jon snow,15,1
+Jeor mormont,Maester aemon,2,1
+Jeor mormont,Othell yarwyck,1,1
+Jeor mormont,Samwell tarly,1,1
+Jeor mormont,Tyrion lannister,4,1
+Jeor mormont,Voices outside,1,1
+Jhiqui,Irri,2,1
+Joffrey baratheon,Arya stark,5,1
+Joffrey baratheon,Cersei baratheon,11,1
+Joffrey baratheon,Grand maester pycelle,1,1
+Joffrey baratheon,Marillion,5,1
+Joffrey baratheon,Mycah,2,1
+Joffrey baratheon,Sandor clegane,2,1
+Joffrey baratheon,Sansa stark,14,1
+Joffrey baratheon,Tyrion lannister,4,1
+Joffrey baratheon,Varys,1,1
+Jon,Benjen,6,1
+Jon,Ned,3,1
+Jon,Robb,1,1
+Jon,Tyrion,3,1
+Jon snow,Alliser thorne,3,1
+Jon snow,Arya stark,8,1
+Jon snow,Benjen stark,4,1
+Jon snow,Catelyn stark,1,1
+Jon snow,Eddard stark,1,1
+Jon snow,Grenn,6,1
+Jon snow,Jaime lannister,4,1
+Jon snow,Jeor mormont,13,1
+Jon snow,Maester aemon,7,1
+Jon snow,Night watch stable boy,1,1
+Jon snow,Pyp,4,1
+Jon snow,Robb stark,4,1
+Jon snow,Samwell tarly,35,1
+Jon snow,Tyrion lannister,10,1
+Jonos bracken,Robb stark,2,1
+Jorah,Daenerys,2,1
+Jorah mormont,Daenarys stormborn,4,1
+Jorah mormont,Daenerys stormborn,5,1
+Jorah mormont,Daenerys targaryen,31,1
+Jorah mormont,Deanerys targarian,1,1
+Jorah mormont,Dothraki man,1,1
+Jorah mormont,Irri,3,1
+Jorah mormont,Khal drogo,1,1
+Jorah mormont,Mirri maz duur,1,1
+Jorah mormont,Qotho,1,1
+Jorah mormont,Rakharo,8,1
+Jorah mormont,Rhakaro,1,1
+Jorah mormont,Viserys targaryen,13,1
+Jorah mormont,Wine merchant,1,1
+Jory cassel,Arya stark,2,1
+Jory cassel,Eddard stark,10,1
+Jory cassel,Hugh of the vale,2,1
+Jory cassel,Jaime lannister,10,1
+Jory cassel,Robert baratheon,1,1
+Kevan lannister,Addam marbrand,1,1
+Kevan lannister,Jamie lannister,1,1
+Kevan lannister,Tyrion lannister,3,1
+Kevan lannister,Tywin lannister,1,1
+Khal drogo,Cohollo,1,1
+Khal drogo,Daenarys stormborn,4,1
+Khal drogo,Daenerys,2,1
+Khal drogo,Daenerys stormborn,3,1
+Khal drogo,Daenerys targaryen,1,1
+Khal drogo,Mago,1,1
+Khal drogo,Viserys targaryen,4,1
+King joffrey,Cersei lannister,1,1
+King joffrey,Grand maester pycelle,1,1
+King joffrey,Messenger,1,1
+King joffrey,Sansa stark,2,1
+Kings guard,Syrio forel,2,1
+King’s landing baker,Arya stark,3,1
+King’s landing guard,Jory cassel,1,1
+Knight 1,Lysa arryn,1,1
+Knight 2,Knight 1,1,1
+Knight 3,Knight 2,1,1
+Knight 4,Knight 3,1,1
+Knight 5,Knight 4,1,1
+Knight of house bracken,Catelyn stark,1,1
+Knight of house whent,Catelyn stark,2,1
+Lancel lannister,Renly baratheon,1,1
+Lancel lannister,Robert baratheon,3,1
+Lannister scout,Robb stark,1,1
+Leo lefford,Kevan lannister,1,1
+Leo lefford,Tyrion lannister,1,1
+Lommy greenhands,Hot pie,5,1
+Loras tyrell,Renly baratheon,20,1
+Lord varys,Cersei lannister,1,1
+Lord varys,Ned stark,10,1
+Luwin,Catelyn,4,1
+Luwin,Ned,1,1
+Lysa arryn,Catelyn stark,7,1
+Lysa arryn,Robin arryn,9,1
+Lysa arryn,Tyrion lannister,9,1
+Maester aemon,Jeor mormont,2,1
+Maester aemon,Jon snow,11,1
+Maester aemon,Tyrion lannister,2,1
+Maester luwin,Bran stark,21,1
+Maester luwin,Catelyn,1,1
+Maester luwin,Catelyn stark,2,1
+Maester luwin,Osha,4,1
+Maester luwin,Robb stark,4,1
+Maester luwin,Theon greyjoy,3,1
+Maester luwin,Tyrion lannister,1,1
+Mago,Daenarys stormborn,1,1
+Man,Eddard stark,1,1
+Man,Grand maester pycelle,1,1
+Marillion,Catelyn stark,1,1
+Marillion,Joffrey baratheon,7,1
+Marillion,Rodrick cassel,2,1
+Marillion,Yoren,1,1
+Maryn trant,Arya stark,1,1
+Masha heddle,Tyrion lannister,2,1
+Meryn trant,Syrio forel,2,1
+Messenger,Janos slynt,1,1
+Messenger,Ned stark,1,1
+Mhaegen,Eddard stark,3,1
+Mirri maz duur,Daenarys stormborn,1,1
+Mirri maz duur,Daenerys targaryen,12,1
+Mirri maz duur,Jorah mormont,2,1
+Mirri maz duur,Khal drogo,1,1
+Mirri maz duur,Qotho,1,1
+Mord,Tyrion lannister,7,1
+Mordane,Sansa stark,7,1
+Mycah,Joffrey baratheon,3,1
+Myrcella baratheon,Tyrion lannister,1,1
+Ned,A voice,1,1
+Ned,Benjen,4,1
+Ned,Bran,5,1
+Ned,Cassel,2,1
+Ned,Catelyn,10,1
+Ned,Jaime,3,1
+Ned,Jon,1,1
+Ned,Robert,7,1
+Ned,Theon,2,1
+Ned stark,Barristan selmy,1,1
+Ned stark,Cersei lannister,7,1
+Ned stark,King joffrey,1,1
+Ned stark,Lord varys,1,1
+Ned stark,Messenger,1,1
+Ned stark,Petyr baelish,8,1
+Ned stark,Robert baratheon,1,1
+Ned stark,Tell me something,1,1
+Ned stark,Varly,1,1
+Nights watch brother,Ser alliser,1,1
+Old nan,Bran stark,2,1
+Old nan,Robb stark,1,1
+Osha,Bran stark,5,1
+Osha,Brann stark,3,1
+Osha,Maester luwin,5,1
+Osha,Robb stark,1,1
+Osha,Theon greyjoy,8,1
+Osha,Wildling,1,1
+Osha,Wildling 2,1,1
+Othell yarwyck,Jaremy rykker,1,1
+Othell yarwyck,Jeor mormont,1,1
+Othell yarwyck,Jon snow,1,1
+Othell yarwyck,Samwell tarly,1,1
+Petyr baelish,Catelyn stark,8,1
+Petyr baelish,Eddard stark,21,1
+Petyr baelish,Grand maester pycelle,4,1
+Petyr baelish,Jaime lannister,1,1
+Petyr baelish,Jory cassel,1,1
+Petyr baelish,Man,1,1
+Petyr baelish,Ned stark,7,1
+Petyr baelish,Renly baratheon,6,1
+Petyr baelish,Ros,7,1
+Petyr baelish,Sansa stark,5,1
+Petyr baelish,Septa mordane,2,1
+Petyr baelish,Varys,28,1
+Populace,Cersei baratheon,1,1
+Prostitute,Tyrion lannister,2,1
+Pyp,All,1,1
+Pyp,Alliser thorne,1,1
+Pyp,Grenn,7,1
+Pyp,Jon snow,4,1
+Pypar,Samwell tarly,1,1
+Qotho,Daenerys targaryen,7,1
+Qotho,Jorah mormont,1,1
+Qotho,Khal drogo,1,1
+Qotho,Mirri maz duur,2,1
+Rakharo,Daenarys stormborn,1,1
+Rakharo,Daenerys targaryen,1,1
+Rakharo,Irri,3,1
+Rakharo,Jorah mormont,9,1
+Rakharo,Qotho,1,1
+Rakharo,Wine merchant,1,1
+Rast,Jon snow,1,1
+Rast,Samwell tarly,1,1
+Rast,Tyrion lannister,1,1
+Renly baratheon,Eddard stark,2,1
+Renly baratheon,Grand maester pycelle,2,1
+Renly baratheon,Loras tyrell,19,1
+Renly baratheon,Ned stark,3,1
+Renly baratheon,Petyr baelish,3,1
+Renly baratheon,Robert baratheon,6,1
+Renly baratheon,Varys,1,1
+Rhakaro,Jorah mormont,1,1
+Rickard karstark,Greatjon umber,1,1
+Rickon stark,Bran stark,3,1
+Rickon stark,Osha,1,1
+Robb,Benjen,1,1
+Robb,Jon,1,1
+Robb,Theon,2,1
+Robb stark,Bran stark,2,1
+Robb stark,Brann stark,5,1
+Robb stark,Catelyn stark,22,1
+Robb stark,Greatjon umber,5,1
+Robb stark,Jaime lannister,1,1
+Robb stark,Jon snow,3,1
+Robb stark,Jonos bracken,2,1
+Robb stark,Maester luwin,2,1
+Robb stark,Old nan,1,1
+Robb stark,Osha,1,1
+Robb stark,Rodrick cassel,2,1
+Robb stark,Theon greyjoy,14,1
+Robb stark,Tyrion lannister,5,1
+Robert,Catelyn,2,1
+Robert,Cersei,1,1
+Robert,Ned,9,1
+Robert,Sansa,1,1
+Robert baratheon,Barristan selmy,5,1
+Robert baratheon,Barriston,1,1
+Robert baratheon,Cersei baratheon,25,1
+Robert baratheon,Cersei lannister,1,1
+Robert baratheon,Eddard stark,39,1
+Robert baratheon,Jaime lannister,2,1
+Robert baratheon,Joffrey baratheon,1,1
+Robert baratheon,Lancel lannister,5,1
+Robert baratheon,Ned stark,3,1
+Robert baratheon,Petyr baelish,2,1
+Robert baratheon,Renly baratheon,5,1
+Robert baratheon,Soldier,1,1
+Robin arryn,Catelyn stark,1,1
+Robin arryn,Knight 5,1,1
+Robin arryn,Lysa arryn,4,1
+Robin arryn,Tyrion lannister,1,1
+Rodrick cassel,Catelyn stark,5,1
+Rodrick cassel,Marillion,1,1
+Rodrik cassel,Catelyn stark,2,1
+Rodrik cassel,Tyrion lannister,2,1
+Ros,Grand maester pycelle,3,1
+Ros,Jaime,1,1
+Ros,Petyr baelish,3,1
+Ros,Theon greyjoy,18,1
+Ros,Tyrion,6,1
+Royce,Gared,2,1
+Royce,Will,1,1
+Ryger rivers,Walder frey,1,1
+"Sam, pyp, and grenn",Grenn,1,1
+"Sam, pyp, and grenn",Jon snow,1,1
+Samwell tarly,Alliser thorne,3,1
+Samwell tarly,Grenn,4,1
+Samwell tarly,Jeor mormont,3,1
+Samwell tarly,Jon snow,34,1
+Samwell tarly,Othell yarwyck,1,1
+Samwell tarly,Pypar,1,1
+Sandor clegane,Eddard stark,1,1
+Sandor clegane,Joffrey baratheon,3,1
+Sandor clegane,Loras tyrell,1,1
+Sandor clegane,Sansa stark,2,1
+Sandor clegane,Tyrion lannister,1,1
+Sansa,Arya,2,1
+Sansa,Catelyn,4,1
+Sansa,Cersei,2,1
+Sansa stark,Arya stark,10,1
+Sansa stark,Cersei lannister,2,1
+Sansa stark,Eddard stark,8,1
+Sansa stark,Grand maester pycelle,2,1
+Sansa stark,Joffrey baratheon,11,1
+Sansa stark,King joffrey,2,1
+Sansa stark,King's landing page,1,1
+Sansa stark,Mordane,8,1
+Sansa stark,Mycah,2,1
+Sansa stark,Petyr baelish,5,1
+Sansa stark,Renly baratheon,1,1
+Sansa stark,Robert baratheon,2,1
+Sansa stark,Sandor clegane,1,1
+Sansa stark,Septa mordane,14,1
+Sansa stark,Yoren,1,1
+Septa mordane,Arya stark,2,1
+Septa mordane,Eddard stark,1,1
+Septa mordane,Sansa,1,1
+Septa mordane,Sansa stark,17,1
+Ser alliser,Othell yarwyck,1,1
+Ser alliser,Samwell tarly,1,1
+Ser vardis,Lysa arryn,1,1
+Ser vardis,Tyrion lannister,1,1
+Shae,Bronn,2,1
+Shae,Tyrion lannister,29,1
+Shagga,Tyrion lannister,1,1
+Soldier,Cersei baratheon,1,1
+Soldier,Robert baratheon,1,1
+Soldier 1,Soldier 2,1,1
+Soldier 2,Arya stark,1,1
+Soldier 2,Soldier 1,1,1
+Stable boy,Arya stark,2,1
+Stark bannermen,Rodrik cassel,1,1
+Stark guard,Greatjon umber,1,1
+Stark guard,Robb stark,1,1
+Stevron frey,Walder frey,1,1
+Steward,Eddard stark,2,1
+Street urchin,Arya stark,2,1
+Syrio forel,Arya stark,14,1
+Syrio forel,Kings guard,1,1
+Syrio forel,Maryn trant,1,1
+Syrio forel,Meryn trant,2,1
+Tell me something,Renly baratheon,1,1
+The hound,Tyrion,2,1
+Theon,Bran,1,1
+Theon,Jon,2,1
+Theon,Ned,1,1
+Theon,Robb,1,1
+Theon greyjoy,Bran stark,5,1
+Theon greyjoy,Catelyn stark,1,1
+Theon greyjoy,Greatjon umber,2,1
+Theon greyjoy,Jaime lannister,1,1
+Theon greyjoy,Maester luwin,1,1
+Theon greyjoy,Old nan,1,1
+Theon greyjoy,Osha,10,1
+Theon greyjoy,Rickard karstark,1,1
+Theon greyjoy,Robb stark,15,1
+Theon greyjoy,Ros,15,1
+Theon greyjoy,Tyrion lannister,6,1
+Tobho mott,Eddard stark,3,1
+Tobho mott,Gendry,2,1
+Tyrion,Jaime,2,1
+Tyrion,Jon,3,1
+Tyrion,Ros,7,1
+Tyrion,The hound,2,1
+Tyrion lannister,Benjen stark,5,1
+Tyrion lannister,Bran stark,3,1
+Tyrion lannister,Bronn,31,1
+Tyrion lannister,Catelyn stark,7,1
+Tyrion lannister,Cersei baratheon,3,1
+Tyrion lannister,Grenn,1,1
+Tyrion lannister,Jaime lannister,4,1
+Tyrion lannister,Jeor mormont,3,1
+Tyrion lannister,Joffrey baratheon,5,1
+Tyrion lannister,Jon snow,11,1
+Tyrion lannister,Kevan lannister,4,1
+Tyrion lannister,Knight of house bracken,1,1
+Tyrion lannister,Lysa arryn,11,1
+Tyrion lannister,Maester aemon,2,1
+Tyrion lannister,Maester luwin,2,1
+Tyrion lannister,Marillion,2,1
+Tyrion lannister,Masha heddle,2,1
+Tyrion lannister,Mord,8,1
+Tyrion lannister,Myrcella baratheon,1,1
+Tyrion lannister,Prostitute,2,1
+Tyrion lannister,Rast,1,1
+Tyrion lannister,Robb stark,5,1
+Tyrion lannister,Robin arryn,1,1
+Tyrion lannister,Rodrik cassel,1,1
+Tyrion lannister,Sandor clegane,1,1
+Tyrion lannister,Ser vardis,2,1
+Tyrion lannister,Shae,25,1
+Tyrion lannister,Shagga,4,1
+Tyrion lannister,Theon greyjoy,7,1
+Tyrion lannister,Tywin lannister,13,1
+Tyrion lannister,Yoren,8,1
+Tywin lannister,Addam marbrand,1,1
+Tywin lannister,Jaime lannister,9,1
+Tywin lannister,Kevan lannister,2,1
+Tywin lannister,Messenger,1,1
+Tywin lannister,Tyrion lannister,14,1
+Vardis egen,Catelyn stark,4,1
+Varly,Messenger,1,1
+Varys,Catelyn stark,3,1
+Varys,Eddard stark,23,1
+Varys,Illyrio mopatis,3,1
+Varys,Janos slynt,1,1
+Varys,Petyr baelish,26,1
+Varys,Renly baratheon,1,1
+Varys,Robert baratheon,1,1
+Viserys,Daenerys,2,1
+Viserys,Illyrio,7,1
+Viserys targaryen,Daenerys targaryen,12,1
+Viserys targaryen,Doreah,12,1
+Viserys targaryen,Jorah mormont,15,1
+Viserys targaryen,Khal drogo,1,1
+Walder frey,Catelyn stark,10,1
+Walder frey,Ryger rivers,1,1
+Walder frey,Stevron frey,1,1
+Waymar royce,Will,1,1
+Wildling,Bran stark,4,1
+Wildling,Osha,1,1
+Wildling 2,Bran stark,1,1
+Will,Royce,1,1
+Will,Waymar royce,2,1
+Wine merchant,Daenerys stormborn,3,1
+Wine merchant,Jorah mormont,3,1
+Yoren,Arya stark,3,1
+Yoren,Benjen stark,2,1
+Yoren,Eddard stark,5,1
+Yoren,Gendry,1,1
+Yoren,Tyrion lannister,7,1

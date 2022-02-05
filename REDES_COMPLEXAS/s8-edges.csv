@@ -1,0 +1,224 @@
+Source,Target,Weight,Season
+Arya,Bran,1,8
+Arya,Gendry,16,8
+Arya,Jon,12,8
+Arya,Melisandre,2,8
+Arya,Nora,2,8
+Arya,Sandor,3,8
+Arya,Sansa,14,8
+Arya,The hound,7,8
+Arya,Yara,1,8
+Beric,Arya,1,8
+Beric,Hound,1,8
+Beric,Jon,1,8
+Both,Tyrion,1,8
+Bran,Arya,1,8
+Bran,Bronn,1,8
+Bran,Grey worm,2,8
+Bran,Jaime,7,8
+Bran,Jon,2,8
+Bran,Littlefinger,1,8
+Bran,Lyanna,1,8
+Bran,Sam,8,8
+Bran,Samwell,1,8
+Bran,Theon,2,8
+Bran,Tyrion,10,8
+Brienne,Bronn,1,8
+Brienne,Davos,2,8
+Brienne,Jaime,18,8
+Brienne,Podrick,1,8
+Brienne,Sandor,5,8
+Brienne,Sansa,2,8
+Brienne,Tormund,3,8
+Brienne,Tyrion,4,8
+Bronn,Brienne,2,8
+Bronn,Davos,4,8
+Bronn,Jaime,8,8
+Bronn,Podrick,1,8
+Bronn,Sam,3,8
+Bronn,Tyrion,13,8
+Bronn,Varys,1,8
+Cersei,Daenerys,3,8
+Cersei,Eurion,1,8
+Cersei,Euron,3,8
+Cersei,Jaime,22,8
+Cersei,Jon,4,8
+Cersei,Qyburn,7,8
+Cersei,Tyrion,17,8
+Daenerys,Cersei,4,8
+Daenerys,Davos,1,8
+Daenerys,Gendry,5,8
+Daenerys,Jaime,3,8
+Daenerys,Jon,27,8
+Daenerys,Jorah,6,8
+Daenerys,Missandei,1,8
+Daenerys,Sansa,13,8
+Daenerys,Theon,2,8
+Daenerys,Tyrion,23,8
+Daenerys,Varys,4,8
+Davos,Bronn,1,8
+Davos,Gendry,1,8
+Davos,Gilly,1,8
+Davos,Grey worm,2,8
+Davos,Sam,1,8
+Davos,Theon,1,8
+Davos,Tormund,1,8
+Davos,Tyrion,13,8
+Dornish prince,Robin,1,8
+Edd,Jon,2,8
+Edd,Samwell,2,8
+Eurion,Cersei,1,8
+Euron,Cersei,1,8
+Euron,Jaime,3,8
+Euron,Jon,1,8
+Euron,Tyrion,3,8
+Gendry,Arya,14,8
+Gendry,Daenerys,3,8
+Gendry,The hound,2,8
+Gendry,Vale lord,1,8
+Gilly,Sam,1,8
+Grey worm,Bran,3,8
+Grey worm,Davos,3,8
+Grey worm,Jon,2,8
+Grey worm,Melisandre,1,8
+Grey worm,Missandei,2,8
+Grey worm,Sansa,3,8
+Grey worm,Tyrion,1,8
+Grey worm,Unsullied captain,1,8
+Harrag,Theon,5,8
+Hound,Beric,2,8
+Hound,Jaime,1,8
+Ironborn lord,Yara,1,8
+Jaime,Both,1,8
+Jaime,Bran,3,8
+Jaime,Brienne,23,8
+Jaime,Bronn,8,8
+Jaime,Cersei,24,8
+Jaime,Daenerys,4,8
+Jaime,Euron,3,8
+Jaime,Jon,2,8
+Jaime,Lyanna,2,8
+Jaime,Sansa,1,8
+Jaime,Tormund,2,8
+Jaime,Tyrion,35,8
+Jon,Arya,9,8
+Jon,Bran,1,8
+Jon,Cersei,2,8
+Jon,Daenerys,28,8
+Jon,Davos,1,8
+Jon,Edd,1,8
+Jon,Euron,1,8
+Jon,Gilly,1,8
+Jon,Grey worm,3,8
+Jon,Jaime,1,8
+Jon,Jorah,1,8
+Jon,Sam,1,8
+Jon,Samwell,3,8
+Jon,Sansa,5,8
+Jon,Theon,9,8
+Jon,Tormund,9,8
+Jon,Tyrion,27,8
+Jon,Varys,6,8
+Jorah,Daenerys,7,8
+Jorah,Lyanna,2,8
+Jorah,Melisandre,1,8
+Jorah,Missandei,1,8
+Jorah,Samwell,1,8
+Littlefinger,Arya,1,8
+Littlefinger,Sansa,19,8
+Lyanna,Bran,1,8
+Lyanna,Rhaegar,1,8
+Lyanna,Samwell,1,8
+Martha,Varys,4,8
+Melisandre,Arya,2,8
+Melisandre,Jorah,1,8
+Missandei,Grey worm,2,8
+Missandei,Sansa,1,8
+Missandei,Varys,1,8
+Nora,Arya,1,8
+Owen,Arya,1,8
+Podrick,Jaime,1,8
+Podrick,Tyrion,4,8
+Qyburn,Cersei,9,8
+Qyburn,Tyrion,7,8
+Riverlands lord,Edmure,1,8
+Robin,Maester wolkan,1,8
+Sam,Bran,10,8
+Sam,Bronn,2,8
+Sam,Tyrion,6,8
+Samwell,Bran,2,8
+Samwell,Edd,2,8
+Samwell,Jon,3,8
+Samwell,Jorah,2,8
+Sandor,Arya,1,8
+Sandor,Beric,1,8
+Sandor,Brienne,5,8
+Sandor,Tyrion,1,8
+Sansa,Arya,14,8
+Sansa,Brienne,3,8
+Sansa,Daenerys,11,8
+Sansa,Edmure,1,8
+Sansa,Grey worm,2,8
+Sansa,Jon,6,8
+Sansa,Littlefinger,21,8
+Sansa,The hound,4,8
+Sansa,Tyrion,12,8
+Sansa,Yara,1,8
+Teela,Davos,1,8
+The hound,Arya,5,8
+The hound,Gendry,3,8
+The hound,Sansa,4,8
+The hound,Tormund,1,8
+Theon,Arya,1,8
+Theon,Bran,2,8
+Theon,Daenerys,1,8
+Theon,Harrag,5,8
+Theon,Jon,7,8
+Theon,Tyrion,1,8
+Tormund,Beric,2,8
+Tormund,Bran,1,8
+Tormund,Brienne,2,8
+Tormund,Davos,2,8
+Tormund,Edd,1,8
+Tormund,Jaime,1,8
+Tormund,Jon,9,8
+Tormund,Sansa,1,8
+Tormund,Tyrion,1,8
+Tormund,Willa,1,8
+Tyrion,Bran,9,8
+Tyrion,Brienne,6,8
+Tyrion,Bronn,20,8
+Tyrion,Cersei,20,8
+Tyrion,Daenerys,16,8
+Tyrion,Davos,10,8
+Tyrion,Edmure,1,8
+Tyrion,Grey worm,1,8
+Tyrion,Jaime,32,8
+Tyrion,Jon,29,8
+Tyrion,Jorah,1,8
+Tyrion,Podrick,4,8
+Tyrion,Qyburn,7,8
+Tyrion,Sam,3,8
+Tyrion,Samwell,1,8
+Tyrion,Sandor,2,8
+Tyrion,Sansa,11,8
+Tyrion,Theon,1,8
+Tyrion,Tormund,1,8
+Tyrion,Unsullied,3,8
+Tyrion,Varys,21,8
+Tyrion,Yohn royce,1,8
+Unsullied,Tyrion,3,8
+Vale lord,Ironborn lord,1,8
+Varys,Daenerys,2,8
+Varys,Grey worm,1,8
+Varys,Jon,6,8
+Varys,Martha,4,8
+Varys,Tyrion,24,8
+Vicky,Nora,2,8
+Willa,The hound,1,8
+Yara,Dornish prince,1,8
+Yara,Grey worm,1,8
+Yara,Sansa,1,8
+Yohn royce,Edmure,1,8
+Yohn royce,Littlefinger,1,8
+Yohn royce,Tyrion,1,8

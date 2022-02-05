@@ -40,6 +40,7 @@ USE SIAA_teste
 			 SIR.IdRegistro
 			,SR.DT_REFERENCIA
 			,SIR.cd_beneficiario
+			,ISNULL((SELECT SEXO  FROM BASICUS_TESTE.DBO.Clientes WHERE IDCliente = SIR.cd_beneficiario), 'Não informado') SEXO 
 			,SIT.CD_DENTISTA
 			,C.idPlano
 			,SIR.VL_ITEM
@@ -75,6 +76,7 @@ USE SIAA_teste
 		SELECT PO.DT_REFERENCIA
 			,PO.IdCliente
 			,SR.CD_BENEFICIARIO
+			,SR.SEXO
 			,SR.cd_dentista
 			,SR.VL_ITEM
 			,SR.DT_ITEM
@@ -109,6 +111,7 @@ USE SIAA_teste
 		INNER JOIN (
 			SELECT IDRegistro
 				,CD_BENEFICIARIO
+				,SR.SEXO
 				,CD_DENTISTA
 				,VL_ITEM
 				,dt_item
@@ -160,7 +163,7 @@ USE SIAA_teste
 		
 		CREATE TABLE #TB_IA_PRECIFICACAO_TEMP_CALC_FINAL 
 		(
-			DT_REFERENCIA DATE
+			 DT_REFERENCIA DATE
 			,IdPlano INT
 			,ID_LOCALIDADE_BENEFICIARIO INT
 			,TIPO_LOCALIDADE VARCHAR(20)
@@ -176,22 +179,19 @@ USE SIAA_teste
 		INSERT INTO #TB_IA_PRECIFICACAO_TEMP_CALC_FINAL (
 			 DT_REFERENCIA
 			,IDPLANO
-			,ID_LOCALIDADE_BENEFICIARIO
-			,TIPO_LOCALIDADE
+			,ID_CLUSTER
 			,ID_TIPO_FATURAMENTO
 			)
 		SELECT 
 			 DT_REFERENCIA
 			,IDPLano
-			,idLocalidadeBeneficiario
-			,TIPO_LOCALIDADE
+			,ID_CLUSTER
 			,IDTipoFaturamento
 		FROM #TB_IA_PRECIFICACAO_TEMP_BASE
 		GROUP BY 
 			 DT_REFERENCIA
 			,IDPLano
-			,idLocalidadeBeneficiario
-			,TIPO_LOCALIDADE
+			,ID_CLUSTER
 			,IDTipoFaturamento
 			
 
@@ -555,7 +555,7 @@ FROM #TB_IA_PRECIFICACAO_TEMP_CALC_FINAL
 
 --BENEFICIARIO             QUANTO USOU?            TOTAL           PROBABILIDADE             ESPERANCA_PARCIAL         ESPERANCA_TOTAL 
 --JOAO                     10                      30              0.3                       3                         16.2   
---MARIA                    20                      30              0.66                      13.2                      16.2
+--MARIA                    20                      30              0.66                      13.2                      16.2 
 
 
 

@@ -1,0 +1,351 @@
+Source,Target,Weight,Season
+Aeron,Yara,2,6
+All,Aeron,2,6
+All,Clarenzo,1,6
+All,Qyburn,1,6
+All,Smalljon,2,6
+All,Theon,4,6
+All,Yara,3,6
+Alliser thorne,Davos,3,6
+Alliser thorne,Dolorous edd,1,6
+Alliser throne,Jon snow,1,6
+Alliser throne,Othell yarwick,1,6
+Arthur,Little bird,1,6
+Arthur,Ned,3,6
+Arthur,Qyburn,2,6
+Arya,Jaqen,15,6
+Arya,Lady crane,16,6
+Arya,Waif,6,6
+Balon,Euron,3,6
+Balon,Yara,5,6
+Belicho,Razdal,1,6
+Belicho,Tyrion,1,6
+Benjen,Bran,4,6
+Benjen,Meera,2,6
+Beric,Sandor,5,6
+Bianca,Camello,1,6
+Bianca,Izembaro,1,6
+Bianca,Lady crane,1,6
+Black walder,Bronn,1,6
+Black walder,Jaime,1,6
+Black walder,Lothar,1,6
+Black walder,Walder,4,6
+Bobono,Bianca,1,6
+Bobono,Camello,1,6
+Bobono,Lady crane,2,6
+Bolton officer,Theon,1,6
+Bowen marsh,Jon snow,1,6
+Bran,Benjen,3,6
+Bran,Hodor,4,6
+Bran,Leaf,1,6
+Bran,Meera,2,6
+Bran,Nan,1,6
+Bran,Three-eyed raven,16,6
+Bran,Young benjen,1,6
+Bran,Young hodor,1,6
+Brienne,Brynden,6,6
+Brienne,Davos,3,6
+Brienne,Jaime,15,6
+Brienne,Podrick,2,6
+Brienne,Sansa,9,6
+Bronn,Jaime,11,6
+Bronn,Podrick,6,6
+Brynden,Black walder,1,6
+Brynden,Brienne,8,6
+Brynden,Jaime,6,6
+Camello,Bobono,1,6
+Camello,Clarenzo,1,6
+Camello,Lady crane,7,6
+Cersei,Jaime,14,6
+Cersei,Kevan,3,6
+Cersei,Lady olenna,3,6
+Cersei,Lancel,4,6
+Cersei,Maester pycell,1,6
+Cersei,Maester pycelle,1,6
+Cersei,Olenna,5,6
+Cersei,Qyburn,5,6
+Cersei,Septa unella,2,6
+Child of the forest,Meera,1,6
+Clarenzo,All,1,6
+Clarenzo,Lady crane,1,6
+Daario,Daenerys,14,6
+Daario,Jorah,14,6
+Daenerys,Daario,16,6
+Daenerys,Dothraki matron,2,6
+Daenerys,Jorah,2,6
+Daenerys,Khal moro,8,6
+Daenerys,Leader,3,6
+Daenerys,Razdal,1,6
+Daenerys,Theon,5,6
+Daenerys,Tyrion,11,6
+Daenerys,Yara,4,6
+Daenerys,Yezzan,1,6
+Davos,Alliser thorne,4,6
+Davos,Brienne,2,6
+Davos,Dolorous edd,5,6
+Davos,Jon snow,9,6
+Davos,Lyanna,4,6
+Davos,Melisandre,20,6
+Davos,Sansa,8,6
+Davos,Tormund,7,6
+Dickon,Sam,4,6
+Dim dalba,Tormund,1,6
+Dolorous edd,Davos,4,6
+Dolorous edd,Jon snow,4,6
+Doran,Ellaria,1,6
+Dothraki matron,Daenerys,3,6
+Edmure,Jaime,8,6
+Ellaria,Doran,2,6
+Ellaria,Olenna,4,6
+Euron,Aeron,1,6
+Euron,Balon,5,6
+Euron,Theon,2,6
+Euron,Yara,3,6
+Gatins,Sandor,2,6
+Gilly,Dickon,1,6
+Gilly,Melessa,3,6
+Gilly,Randyll,1,6
+Gilly,Sam,11,6
+Gilly,Samwell,9,6
+Glover,Jon snow,1,6
+Grey worm,Missandei,1,6
+Grey worm,Razdal,1,6
+Grey worm,Tyrion,19,6
+Grey worm,Varys,4,6
+Grey worm & missandei,Tyrion,1,6
+Handmaiden,Walder,3,6
+High sparrow,Jaime,9,6
+High sparrow,Lancel,1,6
+High sparrow,Loras,4,6
+High sparrow,Margaery,18,6
+Hodor,Bran,4,6
+Hodor,Meera,6,6
+Hooded figure,Balon,1,6
+Izembaro,Bianca,1,6
+Izembaro,Lady crane,4,6
+Izembaro,Ladyc rane,1,6
+Jaime,Black walder,1,6
+Jaime,Brienne,17,6
+Jaime,Bronn,10,6
+Jaime,Brynden,6,6
+Jaime,Cersei,11,6
+Jaime,Edmure,11,6
+Jaime,High sparrow,8,6
+Jaime,Kevan,2,6
+Jaime,Lady olenna,2,6
+Jaime,Lothar,2,6
+Jaime,Mace,1,6
+Jaime,Qyburn,1,6
+Jaime,Qyburns,1,6
+Jaime,Walder,5,6
+Jaqen,Arya,12,6
+Jaqen,Waif,2,6
+Jon snow,Alliser throne,1,6
+Jon snow,Bowen marsh,1,6
+Jon snow,Davos,8,6
+Jon snow,Dim dalba,1,6
+Jon snow,Dolorous edd,8,6
+Jon snow,Glover,1,6
+Jon snow,Lyanna,6,6
+Jon snow,Melisandre,8,6
+Jon snow,Ramsay,2,6
+Jon snow,Robett,5,6
+Jon snow,Sansa,34,6
+Jon snow,Tormund,2,6
+Jorah,Daario,19,6
+Jorah,Daenerys,4,6
+Karstark,Ramsay,1,6
+Kevan,Cersei,7,6
+Kevan,Jaime,1,6
+Khal moro,Daenerys,6,6
+Kinvara,Tyrion,5,6
+Kinvara,Varys,1,6
+Lady crane,Arya,16,6
+Lady crane,Bianca,2,6
+Lady crane,Bobono,3,6
+Lady crane,Camello,7,6
+Lady crane,Izembaro,2,6
+Lady olenna,Cersei,3,6
+Lady olenna,Kevan,1,6
+Lady olenna,Mace tyrell,1,6
+Lady walda,Ramsay,2,6
+Lady walda,Ramsey,1,6
+Lancel,Cersei,3,6
+Lancel,Margaery,1,6
+Leader,Daenerys,2,6
+Leaf,Bran,2,6
+Leaf,Meera,2,6
+Lem,Ray,5,6
+Little bird,Qyburn,2,6
+Littlefinger,Brienne,1,6
+Littlefinger,Robin,2,6
+Littlefinger,Sansa,12,6
+Littlefinger,Yohn royce,5,6
+Loras,High sparrow,4,6
+Loras,Margaery,4,6
+Lord karstark,Maester wolkan,2,6
+Lord karstark,Ramsay,4,6
+Lord karstark,Smalljon,1,6
+Lothar,Black walder,1,6
+Lothar,Jaime,2,6
+Lothar,Walder,2,6
+Lyanna,Davos,3,6
+Lyanna,Jon snow,5,6
+Lyanna,Ned,5,6
+Lyanna,Sansa,2,6
+Mace tyrell,Kevan,1,6
+Maester,Sam,2,6
+Maester pycell,Cersei,2,6
+Maester pycelle,Cersei,2,6
+Maester wolkan,Lord karstark,1,6
+Maester wolkan,Ramsay,2,6
+Margaery,High sparrow,19,6
+Margaery,Loras,3,6
+Margaery,Olenna,9,6
+Margaery,Septa unella,3,6
+Meera,Benjen,1,6
+Meera,Bran,2,6
+Meera,Child of the forest,1,6
+Meera,Hodor,5,6
+Meera,Rider,1,6
+Meera,Three-eyed raven,1,6
+Melessa,Randyll,3,6
+Melessa,Sam,2,6
+Melessa,Talla,1,6
+Melisandre,Davos,21,6
+Melisandre,Jon snow,9,6
+Missandei,Grey worm,3,6
+Missandei,Razdal,1,6
+Missandei,Tyrion,18,6
+Missandei,Varys,1,6
+Nan,Young ned,1,6
+Ned,Arthur,3,6
+Ned,Lyanna,5,6
+Nymeria,Olenna,1,6
+Nymeria,Trystane,1,6
+Obara,Nymeria,1,6
+Obara,Olenna,2,6
+Obara,Trystane,1,6
+Olenna,Cersei,6,6
+Olenna,Ellaria,2,6
+Olenna,Margaery,8,6
+Olenna,Nymeria,1,6
+Olenna,Obara,2,6
+Osha,Ramsay,8,6
+Othell yarwick,Jon snow,1,6
+Petyr,Sansa,4,6
+Podrick,Bronn,7,6
+Podrick,Sansa,1,6
+Pycelle,Mistress,1,6
+Pycelle,Qyburn,1,6
+Qyburn,Arthur,2,6
+Qyburn,Cersei,5,6
+Qyburn,Jaime,1,6
+Qyburn,Little bird,1,6
+Qyburn,Pycelle,1,6
+Ramsay,Lord karstark,1,6
+Ramsay,Maester wolkan,2,6
+Ramsay,Osha,7,6
+Ramsay,Roose,8,6
+Ramsay,Sansa,2,6
+Ramsay,Smalljon,11,6
+Ramsey,Lady walda,1,6
+Randyll,Gilly,3,6
+Randyll,Melessa,1,6
+Randyll,Sam,2,6
+Randyll,Talla,1,6
+Ray,Lem,4,6
+Ray,Sandor,12,6
+Razdal,Daenerys,1,6
+Razdal,Missandei,1,6
+Razdal,Tyrion,2,6
+Red priest,Varys,1,6
+Rider,Meera,1,6
+Robett,Jon snow,5,6
+Robin,Littlefinger,1,6
+Robin,Yohn royce,1,6
+Roose,Lord karstark,2,6
+Roose,Ramsay,4,6
+Sam,Dickon,4,6
+Sam,Gilly,15,6
+Sam,Maester,3,6
+Sam,Melessa,3,6
+Sam,Randyll,2,6
+Samwell,Gilly,9,6
+Sandor,Beric,7,6
+Sandor,Gatins,2,6
+Sandor,Ray,9,6
+Sandor,Thoros,6,6
+Sansa,Brienne,6,6
+Sansa,Davos,7,6
+Sansa,Jon snow,40,6
+Sansa,Littlefinger,13,6
+Sansa,Lyanna,1,6
+Sansa,Petyr,4,6
+Sansa,Podrick,1,6
+Sansa,Ramsay,5,6
+Sansa,Robett,1,6
+Sansa,Theon,7,6
+Sansa,Tormund,1,6
+Septa unella,Cersei,1,6
+Septa unella,Margaery,3,6
+Smalljon,All,2,6
+Smalljon,Lord karstark,2,6
+Smalljon,Ramsay,11,6
+Talla,Sam,2,6
+Theon,All,4,6
+Theon,Bolton officer,2,6
+Theon,Daenerys,4,6
+Theon,Euron,2,6
+Theon,Sansa,8,6
+Theon,Tyrion,3,6
+Theon,Yara,18,6
+Thoros,Beric,1,6
+Thoros,Sandor,5,6
+Three-eyed raven,Bran,22,6
+Tormund,Alliser thorne,1,6
+Tormund,Davos,7,6
+Tormund,Dim dalba,1,6
+Tormund,Jon snow,3,6
+Tormund,Sansa,2,6
+Tormund,Vale knight,1,6
+Trystane,Nymeria,1,6
+Tyrion,Belicho,1,6
+Tyrion,Daenerys,11,6
+Tyrion,Grey worm,19,6
+Tyrion,Kinvara,5,6
+Tyrion,Missandei,21,6
+Tyrion,Razdal,1,6
+Tyrion,Red priest,2,6
+Tyrion,Theon,3,6
+Tyrion,Varys,21,6
+Tyrion,Yara,1,6
+Tyrion,Yezzan,5,6
+Vala,Varys,3,6
+Vale knight,Tormund,1,6
+Varys,Grey worm,3,6
+Varys,Kinvara,1,6
+Varys,Missandei,1,6
+Varys,Tyrion,23,6
+Varys,Vala,3,6
+Waif,Arya,3,6
+Waif,Jaqen,1,6
+Walder,Black walder,3,6
+Walder,Handmaiden,2,6
+Walder,Jaime,4,6
+Walder,Lothar,2,6
+Yara,Aeron,1,6
+Yara,All,4,6
+Yara,Balon,6,6
+Yara,Daenerys,5,6
+Yara,Euron,3,6
+Yara,Theon,17,6
+Yezzan,Grey worm,1,6
+Yezzan,Tyrion,4,6
+Yohn royce,Littlefinger,3,6
+Young benjen,Young lyanna,1,6
+Young benjen,Young ned,1,6
+Young lyanna,Young benjen,1,6
+Young lyanna,Young ned,1,6
+Young ned,Young benjen,1,6
+Young ned,Young lyanna,1,6

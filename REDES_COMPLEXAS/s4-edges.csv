@@ -1,0 +1,462 @@
+Source,Target,Weight,Season
+Aemon,All together,1,4
+Aemon,Sam,9,4
+All,High septon,1,4
+All together,Aemon,1,4
+All together,Grenn,1,4
+Alliser,Ed,1,4
+Alliser,Grenn,1,4
+Alliser,Janos,3,4
+Alliser,Jon,11,4
+Alliser,Night's watch,4,4
+Alliser,Yarwick,1,4
+Alliser thorn,Grenn,1,4
+Alliser thorn,Jon,2,4
+Alliser thorne,Janos slynt,1,4
+Alliser thorne,Jon,5,4
+Alliser thorne,Locke,2,4
+Alliser thorne,Maester aemon,3,4
+Alliser thorne,Pyp,1,4
+Alliser thorne,Yarwyck,1,4
+Arya,Brienne,13,4
+Arya,Captain,6,4
+Arya,Farmer hamlet,2,4
+Arya,Hound,37,4
+Arya,Polliver,2,4
+Arya,Rorge,1,4
+Arya,The hound,21,4
+Axell florent,Melisandre,2,4
+Axell florent,Selyse,1,4
+Balon dwarf,Joffrey dwarf,1,4
+Balon dwarf,Robb dwarf,2,4
+Balon dwarf,Stannis dwarf,1,4
+Barristan,Daenerys,5,4
+Barristan,Jorah,3,4
+Barristan selmy,Daenerys,1,4
+Barristan selmy,Daeynerys,1,4
+Barristan selmy,Missandei,1,4
+Boy,Petyr,1,4
+Bran,Girl,1,4
+Bran,Hodor,6,4
+Bran,Jojen,6,4
+Bran,Locke,1,4
+Bran,Meera,9,4
+Bran,Tanner,1,4
+Brienne,Arya,14,4
+Brienne,Cersei,5,4
+Brienne,Hot pie,10,4
+Brienne,Hound,6,4
+Brienne,Jaime,8,4
+Brienne,Joffrey,1,4
+Brienne,Margaery,3,4
+Brienne,Olenna,2,4
+Brienne,Podrick,25,4
+Bron,Locke,1,4
+Bronn,Jaime,8,4
+Bronn,Oberyn,2,4
+Bronn,Tyrion,28,4
+Captain,Arya,7,4
+Cersei,Brienne,5,4
+Cersei,Jaime,44,4
+Cersei,Joffrey,1,4
+Cersei,Mace,1,4
+Cersei,Margaery,11,4
+Cersei,Oberyn,18,4
+Cersei,Pycelle,9,4
+Cersei,Qyburn,4,4
+Cersei,Ser dontos,3,4
+Cersei,The mountain,1,4
+Cersei,Tywin,33,4
+Cersei,Varys,4,4
+Cesei,Tywin,1,4
+Champion,Jorah,1,4
+Cooper,Donnel,1,4
+Daaerio,Daenerys,1,4
+Daario,Barristan,1,4
+Daario,Daenerys,13,4
+Daario,Grey worm,1,4
+Daenerys,Barristan,5,4
+Daenerys,Barristan selmy,2,4
+Daenerys,Champion,2,4
+Daenerys,Crowd,1,4
+Daenerys,Daario,15,4
+Daenerys,Fennesz,7,4
+Daenerys,Grey worm,2,4
+Daenerys,Hizdahr,8,4
+Daenerys,Jorah,21,4
+Daenerys,Missandei,9,4
+Daenerys,Slaves,1,4
+Daeynerys,Grey worm,1,4
+Dany,Missandei,7,4
+Dany,Ser jorah,14,4
+Dav os,Tycho,1,4
+Davos,Jon,1,4
+Davos,Sallador,5,4
+Davos,Selyse,1,4
+Davos,Shireen,11,4
+Davos,Stannis,11,4
+Davos,Tycho,6,4
+Denerys,Daario,1,4
+Doloroud edd,Jon,1,4
+Dolorous edd,Grenn,1,4
+Dolorous edd,Jon,3,4
+Dolrous edd,Grenn,1,4
+Donnel,Grenn,2,4
+Dornish lord,Tyrion,3,4
+Ed,Grenn,3,4
+Ed,Jon,5,4
+Ed,Pyp,2,4
+Elder meereen slave,Grey worm,2,4
+Elder meereen slave,Meereen slave,1,4
+Elder meereen slave,Mossador,1,4
+Ellaria,Cersei,1,4
+Ellaria,Oberyn,8,4
+Ellaria,Olyvar,3,4
+Ellaria,Tywin,1,4
+Everyone,Theon,1,4
+Farmer hamlet,Arya,5,4
+Farmer hamlet,Hound,6,4
+Fennesz,Daenerys,7,4
+Fennesz,Missandei,1,4
+First mate,Theon,1,4
+Gilly,Mole's town whore,10,4
+Gilly,Pyp,3,4
+Gilly,Sam,24,4
+Girl,Bran,1,4
+Goatherd,Daenerys,1,4
+Goatherd,Missandei,1,4
+Grenn,Alliser,1,4
+Grenn,Alliser thorn,2,4
+Grenn,Cooper,1,4
+Grenn,Donnel,2,4
+Grenn,Ed,3,4
+Grenn,Janos,1,4
+Grenn,Jon,4,4
+Grenn,Locke,3,4
+Grenn,Olly,1,4
+Grenn,Sam,4,4
+Grey worm,Daario,1,4
+Grey worm,Daenerys,2,4
+Grey worm,Elder meereen slave,1,4
+Grey worm,Missandei,15,4
+Guymon,Olly,2,4
+High septon,Jaime,1,4
+Hizdahr,Daenerys,8,4
+Hodor,Bran,5,4
+Hodor,Jojen,2,4
+Hodor,Meera,1,4
+Hot pie,Brienne,10,4
+Hot pie,Podrick,2,4
+Hound,Arya,37,4
+Hound,Brienne,7,4
+Hound,Farmer hamlet,8,4
+Hound,Polliver,11,4
+Ironborn,Yara,1,4
+Jaime,Brienne,12,4
+Jaime,Bronn,5,4
+Jaime,Cersei,41,4
+Jaime,Joffrey,5,4
+Jaime,Loras,4,4
+Jaime,Meryn,2,4
+Jaime,Olenna,1,4
+Jaime,Podrick,3,4
+Jaime,Tyrion,45,4
+Jaime,Tywin,27,4
+Janos,Alliser,3,4
+Janos,Grenn,1,4
+Janos,Jon,2,4
+Janos slunt,Jon,1,4
+Janos slynt,Alliser thorne,3,4
+Janos slynt,Jon,6,4
+Janos slynt,Sam,1,4
+Joffrey,Brienne,2,4
+Joffrey,Cersei,1,4
+Joffrey,High septon,1,4
+Joffrey,Jaime,6,4
+Joffrey,Mace,1,4
+Joffrey,Margaery,2,4
+Joffrey,Pycelle,1,4
+Joffrey,Tyrion,5,4
+Joffrey dwarf,Balon dwarf,1,4
+Joffrey dwarf,Robb dwarf,2,4
+Jojen,Bran,6,4
+Jojen,Karl tanner,5,4
+Jojen,Meera,5,4
+Jon,Alliser,9,4
+Jon,Alliser thorn,2,4
+Jon,Alliser thorne,9,4
+Jon,Davos,2,4
+Jon,Dolorous edd,4,4
+Jon,Grenn,7,4
+Jon,Janos,2,4
+Jon,Janos slunt,1,4
+Jon,Janos slynt,6,4
+Jon,Locke,3,4
+Jon,Morag,1,4
+Jon,Olly,1,4
+Jon,Sam,30,4
+Jon,Stannis,3,4
+Jon,Tormund,10,4
+Jon,Ygritte,2,4
+Jorah,Barristan,2,4
+Jorah,Barristan selmy,1,4
+Jorah,Daenerys,22,4
+Karl,Meera,1,4
+Karl tanner,Jojen,4,4
+Knight,Littlefinger,2,4
+Lady anya,Lord royce,3,4
+Lady anya,Petyr,8,4
+Lady anya,Sansa,2,4
+Lhara,Sallador,1,4
+Littlefinger,Knight,1,4
+Littlefinger,Lysa,11,4
+Littlefinger,Robin,1,4
+Littlefinger,Sansa,25,4
+Littlefinger,Ser dontos,1,4
+Locke,Alliser thorne,1,4
+Locke,Bran,1,4
+Locke,Grenn,2,4
+Locke,Hodor,1,4
+Locke,Jon,6,4
+Locke,Meryn trant,1,4
+Locke,Ramsay,1,4
+Locke,Sam,1,4
+Locke,Theon,1,4
+Loras,Jaime,4,4
+Lord bolton,Ramsay,1,4
+Lord royce,Lady anya,2,4
+Lord royce,Petyr,8,4
+Lord royce,Sansa,3,4
+Lord royce,Ser vance,1,4
+Lysa,Littlefinger,8,4
+Lysa,Robin,1,4
+Lysa,Sansa,24,4
+Mace,Cersei,1,4
+Mace,Joffrey,1,4
+Mace,Oberyn,1,4
+Mace,Varys,1,4
+Maester aemon,Alliser thorne,4,4
+Maester aemon,Janos slynt,1,4
+Maester aemon,Jon,1,4
+Maid,Cersei,1,4
+Margaery,Brienne,2,4
+Margaery,Cersei,10,4
+Margaery,Joffrey,5,4
+Margaery,Olenna,13,4
+Meera,Bran,9,4
+Meera,Hodor,1,4
+Meera,Jojen,4,4
+Meera,Karl,1,4
+Meera,Karl tanner,1,4
+Meera,Tanner,2,4
+Meereen slave,Elder meereen slave,1,4
+Meereen slave,Mossador,1,4
+Melisandre,Axell florent,1,4
+Melisandre,Selyse,11,4
+Melisandre,Shireen,7,4
+Member 1,Alliser,1,4
+Meryn,Jaime,2,4
+Meryn trant,Roose,1,4
+Missandei,Daenerys,12,4
+Missandei,Dany,8,4
+Missandei,Goatherd,3,4
+Missandei,Grey worm,13,4
+Mole's town madam,Mole's town whore,1,4
+Mole's town madam,Sam,2,4
+Mole's town whore,Gilly,9,4
+Morag,Jon,1,4
+Morgan,Ellaria,2,4
+Morgan,Oberyn,1,4
+Morgan,Olyvar,1,4
+Morgan's friend,Oberyn,1,4
+Mossador,Elder meereen slave,1,4
+Mountain,Oberyn,1,4
+Musician,Olenna,1,4
+Myranda,Ramsay,2,4
+Myranda,Tansay,1,4
+Myranda,Yara,1,4
+Night's watch,Alliser,4,4
+Oberyn,Bronn,1,4
+Oberyn,Cersei,17,4
+Oberyn,Ellaria,9,4
+Oberyn,Morgan,2,4
+Oberyn,Morgan's friend,2,4
+Oberyn,Olyvar,9,4
+Oberyn,Pycelle,1,4
+Oberyn,Shae,2,4
+Oberyn,Tyrion,22,4
+Oberyn,Tywin,23,4
+Oberyn,Varys,13,4
+Olenna,Brienne,1,4
+Olenna,Margaery,17,4
+Olenna,Tyrion,1,4
+Olenna,Tywin,5,4
+Olly,Guymon,1,4
+Olly,Jon,1,4
+Olly,Styr,1,4
+Olyvar,Ellaria,4,4
+Olyvar,Morgan,1,4
+Olyvar,Oberyn,6,4
+Petyr,Lady anya,7,4
+Petyr,Lord royce,9,4
+Petyr,Robin,2,4
+Petyr,Sansa,5,4
+Podrick,Brienne,30,4
+Podrick,Bronn,1,4
+Podrick,Hot pie,1,4
+Podrick,Hound,1,4
+Podrick,Jaime,2,4
+Podrick,Tyrion,26,4
+Podrick,Tyron,1,4
+Polliver,Arya,2,4
+Polliver,Hound,9,4
+Polliver,Innkeeper,1,4
+Pycell,Tyrion,1,4
+Pycelle,Cersei,7,4
+Pycelle,Oberyn,1,4
+Pycelle,Qyburn,4,4
+Pycelle,Tywin,3,4
+Pycelle,Varys,1,4
+Pyelle,Tywin,1,4
+Pyp,Ed,1,4
+Pyp,Gilly,1,4
+Pyp,Jon,1,4
+Pyp,Maester aemon,1,4
+Pyp,Sam,9,4
+Qyburn,Cersei,4,4
+Qyburn,Cersie,1,4
+Qyburn,Jaime,1,4
+Qyburn,Pycelle,4,4
+Ralf,Everyone,1,4
+Ralf,Theon,5,4
+Ramsay,Locke,1,4
+Ramsay,Lord bolton,1,4
+Ramsay,Myranda,4,4
+Ramsay,Roose,11,4
+Ramsay,Tansy,3,4
+Ramsay,Theon,13,4
+Ramsay,Yara,1,4
+Rast,Bran,1,4
+Rast,Hodor,1,4
+Rast,Tanner,1,4
+Renly dwarf,Balon dwarf,1,4
+Renly dwarf,Stannis dwarf,1,4
+Robb dwarf,Balon dwarf,3,4
+Robb dwarf,Joffrey dwarf,1,4
+Robb dwarf,Renly dwarf,1,4
+Robin,Littlefinger,1,4
+Robin,Lysa,1,4
+Robin,Petyr,1,4
+Robin,Sansa,16,4
+Roose,Locke,1,4
+Roose,Ramsay,10,4
+Roose,Theon,1,4
+Roose,Walda,1,4
+Rorge,The hound,3,4
+Sallador,Davos,3,4
+Sam,Aemon,9,4
+Sam,Ed,1,4
+Sam,Gilly,25,4
+Sam,Grenn,2,4
+Sam,Janos slynt,1,4
+Sam,Jon,28,4
+Sam,Mole's town madam,3,4
+Sam,Pyp,9,4
+Sansa,Lady anya,3,4
+Sansa,Littlefinger,22,4
+Sansa,Lord royce,3,4
+Sansa,Lysa,25,4
+Sansa,Petyr,4,4
+Sansa,Robin,14,4
+Sansa,Ser dontos,6,4
+Sansa,Shae,2,4
+Sansa,Tyrion,5,4
+Selyse,Axell florent,1,4
+Selyse,Melisandre,10,4
+Selyse,Stannis,6,4
+Ser barristan,Boy,1,4
+Ser barristan,Ser jorah,6,4
+Ser dontos,Cersei,1,4
+Ser dontos,Littlefinger,2,4
+Ser dontos,Sansa,6,4
+Ser jorah,Dany,15,4
+Ser jorah,Ser barristan,4,4
+Ser vance,Sansa,1,4
+Shae,Mace,1,4
+Shae,Oberyn,3,4
+Shae,Sansa,1,4
+Shae,Tyrion,25,4
+Shae,Tywin,5,4
+Shireen,Davos,9,4
+Shireen,Melisandre,8,4
+Sissy,Tanner,3,4
+Stannis,Davos,14,4
+Stannis,Jon,3,4
+Stannis,Selyse,5,4
+Stannis,Tycho,7,4
+Stannis dwarf,Renly dwarf,1,4
+Styr,Tormund,3,4
+Styr,Ygritte,6,4
+Tanner,Meera,3,4
+Tanner,Rast,2,4
+Tanner,Sissy,3,4
+Tansay,Ramsay,1,4
+Tansy,Myranda,1,4
+Tansy,Ramsay,1,4
+Tansy,Theon,1,4
+The hound,Arya,21,4
+The hound,Rorge,2,4
+The mountain,Cersei,2,4
+Theon,Locke,1,4
+Theon,Ralf,7,4
+Theon,Ramsay,15,4
+Theon,Yara,4,4
+Together,Tyrion,1,4
+Tormund,Jon,11,4
+Tormund,Styr,2,4
+Tormund,Ygritte,7,4
+Twyin,Tyrion,1,4
+Tycho,Dav os,1,4
+Tycho,Davos,5,4
+Tycho,Stannis,7,4
+Tyriom,Jaime,1,4
+Tyrion,Bronn,31,4
+Tyrion,Cersei,1,4
+Tyrion,Dornish lord,3,4
+Tyrion,Jaime,47,4
+Tyrion,Joffrey,4,4
+Tyrion,Meryn trant,1,4
+Tyrion,Oberyn,22,4
+Tyrion,Podrick,25,4
+Tyrion,Sansa,7,4
+Tyrion,Shae,26,4
+Tyrion,Together,1,4
+Tyrion,Tywin,20,4
+Tyrion,Varys,4,4
+Tywin,Cersei,32,4
+Tywin,Cesei,1,4
+Tywin,Ellaria,1,4
+Tywin,Jaime,29,4
+Tywin,Oberyn,24,4
+Tywin,Olenna,4,4
+Tywin,Pycelle,5,4
+Tywin,Shae,5,4
+Tywin,Tyrion,19,4
+Tywin,Varys,3,4
+Varys,Cersei,3,4
+Varys,Mace,2,4
+Varys,Oberyn,11,4
+Varys,Pycelle,2,4
+Varys,Tyrion,6,4
+Varys,Tywin,5,4
+Warg,Tormund,1,4
+Yara,First mate,1,4
+Yara,Ironborn,1,4
+Yara,Myranda,1,4
+Yara,Theon,3,4
+Yarwick,Alliser,2,4
+Ygritte,Jon,2,4
+Ygritte,Styr,6,4
+Ygritte,Tormund,7,4
+Ytrion,Jaime,1,4
+[jojen,Girl,1,4
