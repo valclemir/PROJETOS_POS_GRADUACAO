@@ -1,0 +1,28 @@
+--SELECT * FROM basicus.dbo.SIVDENTISTASCONTRATOS
+--SELECT * FROM siapweb.dbo.siitem_remuneracao sir 
+--SELECT * FROM siapweb.dbo.siremuneracao
+
+
+DECLARE @Meses INT = 1, @p_referencia DATE = GETDATE() 
+SELECT DISTINCT SC.IdClinica, SIR.CD_BENEFICIARIO, COUNT(*) OVER (PARTITION BY IDClinica, CD_BENEFICIARIO) WEIGHTS
+FROM siapweb.dbo.siitem_remuneracao sir WITH (NOLOCK)
+INNER JOIN siapweb.dbo.siremuneracao sr WITH (NOLOCK) 
+	ON 
+		sr.cd_remuneracao = sir.cd_remuneracao_pagamento
+INNER JOIN BASICUS.DBO.SITRATAMENTOS SIT 
+	ON 
+		SIT.IDTRATAMENTO = SIR.IDTRATAMENTO
+INNER JOIN BASICUS.DBO.CONTRATOS C 
+	ON 
+		C.IDCONTRATO = SIT.IdContratoCliente
+INNER JOIN BASICUS.DBO.SiClinicas sc 
+	ON 
+		SC.idClinica = SIT.CD_CLINICA
+INNER JOIN BASICUS.DBO.TIPOS_CONTRATO TC 
+	ON 
+		TC.IDTIPO = C.TIPOCONTRATO
+WHERE SR.DT_REFERENCIA >= DATEADD(MM, - @Meses, @p_referencia)
+AND SR.DT_REFERENCIA < @p_referencia
+AND SIR.CD_TIPO_ITEM IN (12, 28)
+AND UPPER(BAIRRO) = 'ALDEOTA'
+--SELECT * FROM BASICUS.DBO.SiClinicas sc 
